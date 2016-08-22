@@ -1,0 +1,954 @@
+[submodule "iis"]
+	path = iis
+	url = https://github.com/chef-cookbooks/iis.git
+[submodule "omnibus_updater"]
+	path = omnibus_updater
+	url = https://github.com/chef-cookbooks/omnibus_updater.git
+[submodule "php"]
+	path = php
+	url = https://github.com/chef-cookbooks/php.git
+[submodule "windows"]
+	path = windows
+	url = https://github.com/chef-cookbooks/windows.git
+[submodule "vcruntime"]
+	path = vcruntime
+	url = https://github.com/chef-windows/vcruntime.git
+[submodule "composer"]
+	path = composer
+	url = https://github.com/djoos-cookbooks/composer.git
+[submodule "chef-cygwin"]
+	path = chef-cygwin
+	url = https://github.com/rylarson/chef-cygwin.git
+[submodule "cookbook-r"]
+	path = cookbook-r
+	url = https://github.com/stevendanna/cookbook-r.git
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/stevendanna/tmux
+[submodule "as-php"]
+	path = as-php
+	url = https://github.com/pingdecopong/as-php
+[submodule "chef-php-redis"]
+	path = chef-php-redis
+	url = https://github.com/rjocoleman/chef-php-redis
+[submodule "phpcs"]
+	path = phpcs
+	url = https://github.com/escapestudios-cookbooks/phpcs
+[submodule "cookbook-php-fpm"]
+	path = cookbook-php-fpm
+	url = https://github.com/yevgenko/cookbook-php-fpm
+[submodule "phpmd"]
+	path = phpmd
+	url = https://github.com/escapestudios-cookbooks/phpmd
+[submodule "phpcb"]
+	path = phpcb
+	url = https://github.com/escapestudios-cookbooks/phpcb
+[submodule "php5-fpm"]
+	path = php5-fpm
+	url = http://github.com/stajkowski/php5-fpm
+[submodule "java-libraries"]
+	path = java-libraries
+	url = https://github.com/agileorbit-cookbooks/java-libraries
+[submodule "chef-java_se"]
+	path = chef-java_se
+	url = https://github.com/dhoer/chef-java_se
+[submodule "java"]
+	path = java
+	url = https://github.com/agileorbit-cookbooks/java
+[submodule "java-service-cookbook"]
+	path = java-service-cookbook
+	url = https://github.com/johnbellone/java-service-cookbook
+[submodule "chef-java-wrapper"]
+	path = chef-java-wrapper
+	url = https://github.com/arussel/chef-java-wrapper
+[submodule "application_python"]
+	path = application_python
+	url = https://github.com/poise/application_python
+[submodule "python-sip-cookbook"]
+	path = python-sip-cookbook
+	url = https://github.com/virtuald/python-sip-cookbook
+[submodule "cookbook-opt-python"]
+	path = cookbook-opt-python
+	url = https://github.com/kjtanaka/cookbook-opt-python
+[submodule "opsworks_python"]
+	path = opsworks_python
+	url = http://github.com/flovilmart/opsworks_python
+[submodule "python"]
+	path = python
+	url = http://github.com/opscode-cookbooks/python
+[submodule "windows_rdp"]
+	path = windows_rdp
+	url = https://github.com/jrnker/windows_rdp
+[submodule "cookbook-x-windows"]
+	path = cookbook-x-windows
+	url = http://github.com/atomic-penguin/cookbook-x-windows
+[submodule "windows-sdk-cookbook"]
+	path = windows-sdk-cookbook
+	url = https://github.com/jdmundrawala/windows-sdk-cookbook
+[submodule "vim-windows-cookbook"]
+	path = vim-windows-cookbook
+	url = https://github.com/databus23/vim-windows-cookbook
+[submodule "windows_ssl"]
+	path = windows_ssl
+	url = https://github.com/lynx44/windows_ssl
+[submodule "cookbook.windows_ad"]
+	path = cookbook.windows_ad
+	url = https://github.com/TAMUArch/cookbook.windows_ad
+[submodule "ark"]
+	path = ark
+	url = https://github.com/opscode-cookbooks/ark
+[submodule "xml_file"]
+	path = xml_file
+	url = https://github.com/GoatOS/xml_file
+[submodule "wix"]
+	path = wix
+	url = https://github.com/chef-cookbooks/wix
+[submodule "xml"]
+	path = xml
+	url = https://github.com/chef-cookbooks/xml
+[submodule "xmledit-cookbook"]
+	path = xmledit-cookbook
+	url = https://github.com/martinb3/xmledit-cookbook
+[submodule "ruby_build"]
+	path = ruby_build
+	url = https://github.com/chef-rbenv/ruby_build/
+[submodule "chef-chruby-build"]
+	path = chef-chruby-build
+	url = https://github.com/madwork/chef-chruby-build
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/chef-cookbooks/build-essential
+[submodule "chef-buildr"]
+	path = chef-buildr
+	url = https://github.com/cyberfonica/chef-buildr
+[submodule "sbuild"]
+	path = sbuild
+	url = http://github.com/opscode-cookbooks/sbuild
+[submodule "mysqld"]
+	path = mysqld
+	url = https://github.com/chr4-cookbooks/mysqld
+[submodule "chef-mysql"]
+	path = chef-mysql
+	url = https://github.com/szelcsanyi/chef-mysql
+[submodule "cookbook-mysql-mha"]
+	path = cookbook-mysql-mha
+	url = https://github.com/ovaistariq/cookbook-mysql-mha
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/chef-cookbooks/mysql
+[submodule "mysql-multi"]
+	path = mysql-multi
+	url = https://github.com/rackspace-cookbooks/mysql-multi
+[submodule "mysqler"]
+	path = mysqler
+	url = https://github.com/wix/mysqler
+[submodule "mw_application"]
+	path = mw_application
+	url = https://github.com/Mikroways/mw_application
+[submodule "ci.chef.wlp.application"]
+	path = ci.chef.wlp.application
+	url = https://github.com/WASdev/ci.chef.wlp.application
+[submodule "application_zf"]
+	path = application_zf
+	url = https://github.com/PUGTorino/application_zf
+[submodule "application"]
+	path = application
+	url = https://github.com/poise/application
+[submodule "application_java"]
+	path = application_java
+	url = https://github.com/poise/application_java
+[submodule "chef-netsh_firewall"]
+	path = chef-netsh_firewall
+	url = https://github.com/biola/chef-netsh_firewall
+[submodule "windows_firewall"]
+	path = windows_firewall
+	url = https://github.com/lynx44/windows_firewall
+[submodule "chef-firewall"]
+	path = chef-firewall
+	url = https://github.com/szelcsanyi/chef-firewall
+[submodule "chef-firewall-ex"]
+	path = chef-firewall-ex
+	url = https://github.com/dataferret/chef-firewall-ex
+[submodule "firewalld-cookbook"]
+	path = firewalld-cookbook
+	url = https://github.com/rigrassm/firewalld-cookbook
+[submodule "firewall"]
+	path = firewall
+	url = http://github.com/opscode-cookbooks/firewall
+[submodule "pita"]
+	path = pita
+	url = https://github.com/sudo-recruit/pita
+[submodule "sudo_elastic"]
+	path = sudo_elastic
+	url = https://github.com/sudo-recruit/sudo_elastic
+[submodule "sudo_rules"]
+	path = sudo_rules
+	url = https://github.com/linux-help/sudo_rules
+[submodule "sudo"]
+	path = sudo
+	url = http://github.com/opscode-cookbooks/sudo
+[submodule "cookbook-rackconnect"]
+	path = cookbook-rackconnect
+	url = https://github.com/dwradcliffe/cookbook-rackconnect
+[submodule "chef-common_auth"]
+	path = chef-common_auth
+	url = https://github.com/JonathanSerafini/chef-common_auth
+[submodule "chef-ssh-auth"]
+	path = chef-ssh-auth
+	url = https://bitbucket.org/ppasupula/chef-ssh-auth
+[submodule "sshd"]
+	path = sshd
+	url = https://github.com/chr4-cookbooks/sshd
+[submodule "chef-ssh"]
+	path = chef-ssh
+	url = https://github.com/markolson/chef-ssh
+[submodule "ssh_keygen"]
+	path = ssh_keygen
+	url = https://github.com/vancluever/ssh_keygen
+[submodule "chef-user_ssh"]
+	path = chef-user_ssh
+	url = https://github.com/tnarik/chef-user_ssh
+[submodule "chef-ssh-keys"]
+	path = chef-ssh-keys
+	url = https://github.com/nickola/chef-ssh-keys
+[submodule "chef-ssh-hardening"]
+	path = chef-ssh-hardening
+	url = https://github.com/TelekomLabs/chef-ssh-hardening
+[submodule "openswan"]
+	path = openswan
+	url = https://github.com/wanelo-chef/openswan
+[submodule "openssl"]
+	path = openssl
+	url = http://github.com/opscode-cookbooks/openssl
+[submodule "openssh"]
+	path = openssh
+	url = http://github.com/opscode-cookbooks/openssh
+[submodule "cookbook-openstack"]
+	path = cookbook-openstack
+	url = https://github.com/paulczar/cookbook-openstack
+[submodule "cookbook-opensmtpd"]
+	path = cookbook-opensmtpd
+	url = https://github.com/alappe/cookbook-opensmtpd
+[submodule "opencv-cookbook"]
+	path = opencv-cookbook
+	url = https://github.com/Youscribe/opencv-cookbook
+[submodule "chef-opendj"]
+	path = chef-opendj
+	url = https://github.com/ucidentity/chef-opendj
+[submodule "mingw"]
+	path = mingw
+	url = https://github.com/chef-cookbooks/mingw
+[submodule "chef-mineos"]
+	path = chef-mineos
+	url = https://github.com/kaimi/chef-mineos
+[submodule "homebrew"]
+	path = homebrew
+	url = https://github.com/opscode-cookbooks/homebrew
+[submodule "chef-slack_handler"]
+	path = chef-slack_handler
+	url = https://github.com/rackspace-cookbooks/chef-slack_handler
+[submodule "chef-graphite_handler"]
+	path = chef-graphite_handler
+	url = https://github.com/realityforge/chef-graphite_handler
+[submodule "chef_handler_sns-cookbook"]
+	path = chef_handler_sns-cookbook
+	url = https://github.com/zuazo/chef_handler_sns-cookbook
+[submodule "chef_handler_elasticsearch"]
+	path = chef_handler_elasticsearch
+	url = https://github.com/higanworks-cookbooks/chef_handler_elasticsearch
+[submodule "chef_handler"]
+	path = chef_handler
+	url = http://github.com/opscode-cookbooks/chef_handler
+[submodule "yum-cron"]
+	path = yum-cron
+	url = https://github.com/osuosl-cookbooks/yum-cron
+[submodule "cron"]
+	path = cron
+	url = https://github.com/chef-cookbooks/cron
+[submodule "alphard-chef"]
+	path = alphard-chef
+	url = https://github.com/hydra-technologies/alphard-chef
+[submodule "crowd"]
+	path = crowd
+	url = https://github.com/afklm/crowd
+[submodule "chef-incron"]
+	path = chef-incron
+	url = https://github.com/dwradcliffe/chef-incron
+[submodule "opsworks_ruby"]
+	path = opsworks_ruby
+	url = https://github.com/ajgon/opsworks_ruby
+[submodule "database_sl"]
+	path = database_sl
+	url = https://github.com/dsaenztagarro/database_sl
+[submodule "chef-database_restore"]
+	path = chef-database_restore
+	url = https://github.com/X0nic/chef-database_restore
+[submodule "database"]
+	path = database
+	url = https://github.com/opscode-cookbooks/database
+[submodule "database_upgrader"]
+	path = database_upgrader
+	url = https://github.com/mhedgpeth/database_upgrader
+[submodule "databox-cookbook"]
+	path = databox-cookbook
+	url = https://github.com/kohenkatz/databox-cookbook
+[submodule "chef-datadog"]
+	path = chef-datadog
+	url = https://github.com/DataDog/chef-datadog
+[submodule "cloudless-box"]
+	path = cloudless-box
+	url = https://github.com/karolsluszniak/cloudless-box
+[submodule "chef-flywaydb"]
+	path = chef-flywaydb
+	url = https://github.com/dhoer/chef-flywaydb
+[submodule "helpers-databags-cookbook"]
+	path = helpers-databags-cookbook
+	url = https://github.com/spheromak/helpers-databags-cookbook
+[submodule "pdepend"]
+	path = pdepend
+	url = https://github.com/escapestudios-cookbooks/pdepend
+[submodule "poise-archive"]
+	path = poise-archive
+	url = https://github.com/poise/poise-archive
+[submodule "poise-appenv"]
+	path = poise-appenv
+	url = https://github.com/poise/poise-appenv
+[submodule "chef-archiva"]
+	path = chef-archiva
+	url = https://github.com/jespada/chef-archiva
+[submodule "poise"]
+	path = poise
+	url = https://github.com/poise/poise
+[submodule "fpm-cookbook"]
+	path = fpm-cookbook
+	url = https://github.com/LouTheBrew/fpm-cookbook
+[submodule "chef-archive"]
+	path = chef-archive
+	url = https://github.com/realityforge/chef-archive
+[submodule "chef-docker_deploy"]
+	path = chef-docker_deploy
+	url = https://github.com/randomcoww/chef-docker_deploy
+[submodule "cookbook-deploy_key"]
+	path = cookbook-deploy_key
+	url = https://github.com/cassianoleal/cookbook-deploy_key
+[submodule "deployer"]
+	path = deployer
+	url = https://github.com/sethvargo-cookbooks/deployer
+[submodule "deploy_s3"]
+	path = deploy_s3
+	url = https://github.com/hipsnip-cookbooks/deploy_s3
+[submodule "chef-http_deploy"]
+	path = chef-http_deploy
+	url = https://github.com/Granicus/chef-http_deploy
+[submodule "chef-common_deploy"]
+	path = chef-common_deploy
+	url = https://github.com/JonathanSerafini/chef-common_deploy
+[submodule "chef-jboss-deploy"]
+	path = chef-jboss-deploy
+	url = https://github.com/jantwisted/chef-jboss-deploy
+[submodule "supervisor"]
+	path = supervisor
+	url = https://github.com/opscode-cookbooks/supervisor
+[submodule "xfs"]
+	path = xfs
+	url = http://github.com/opscode-cookbooks/xfs
+[submodule "chef-centos-preupg"]
+	path = chef-centos-preupg
+	url = https://github.com/kkeane/chef-centos-preupg
+[submodule "yum-centos"]
+	path = yum-centos
+	url = https://github.com/chef-cookbooks/yum-centos
+[submodule "cookbook-yum-gitlab-ce"]
+	path = cookbook-yum-gitlab-ce
+	url = https://github.com/atomic-penguin/cookbook-yum-gitlab-ce
+[submodule "cis_centos6"]
+	path = cis_centos6
+	url = https://github.com/Huddle/cis_centos6
+[submodule "yum"]
+	path = yum
+	url = https://github.com/chef-cookbooks/yum/
+[submodule "cookbook-el2centos"]
+	path = cookbook-el2centos
+	url = http://github.com/atomic-penguin/cookbook-el2centos
+[submodule "yum-chef"]
+	path = yum-chef
+	url = https://github.com/chef-cookbooks/yum-chef
+[submodule "yum-elrepo"]
+	path = yum-elrepo
+	url = https://github.com/chef-cookbooks/yum-elrepo
+[submodule "yum-epel"]
+	path = yum-epel
+	url = https://github.com/chef-cookbooks/yum-epel
+[submodule "yum-ius"]
+	path = yum-ius
+	url = https://github.com/chef-cookbooks/yum-ius
+[submodule "yum-mysql-community"]
+	path = yum-mysql-community
+	url = https://github.com/chef-cookbooks/yum-mysql-community
+[submodule "yum-pgdg"]
+	path = yum-pgdg
+	url = https://github.com/chef-cookbooks/yum-pgdg
+[submodule "yum-remi-cookbook"]
+	path = yum-remi-cookbook
+	url = https://github.com/psyreactor/yum-remi-cookbook
+[submodule "yum-fedora"]
+	path = yum-fedora
+	url = https://github.com/chef-cookbooks/yum-fedora
+[submodule "chef-sugar"]
+	path = chef-sugar
+	url = https://github.com/sethvargo/chef-sugar
+[submodule "chef-sbt"]
+	path = chef-sbt
+	url = https://github.com/farmdawgnation/chef-sbt
+[submodule "chef"]
+	path = chef
+	url = http://github.com/opscode-cookbooks/chef
+[submodule "chef-cfn"]
+	path = chef-cfn
+	url = https://github.com/JonathanSerafini/chef-cfn
+[submodule "chef-dk-chef"]
+	path = chef-dk-chef
+	url = https://github.com/RoboticCheese/chef-dk-chef
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/svanzoest-cookbooks/apache2/
+[submodule "apache2-windows"]
+	path = apache2-windows
+	url = https://github.com/chef-azure/apache2-windows
+[submodule "arcgis-cookbook"]
+	path = arcgis-cookbook
+	url = https://github.com/Esri/arcgis-cookbook
+[submodule "chef-atom"]
+	path = chef-atom
+	url = https://github.com/mohitsethi/chef-atom
+[submodule "yum-atomic"]
+	path = yum-atomic
+	url = https://github.com/brianhays/yum-atomic
+[submodule "cookbook-dbench"]
+	path = cookbook-dbench
+	url = http://github.com/atomic-penguin/cookbook-dbench
+[submodule "cookbook-certificate"]
+	path = cookbook-certificate
+	url = http://github.com/atomic-penguin/cookbook-certificate
+[submodule "cookbook-apt-atomic"]
+	path = cookbook-apt-atomic
+	url = https://github.com/linux-help/cookbook-apt-atomic
+[submodule "cookbook-gnome"]
+	path = cookbook-gnome
+	url = http://github.com/atomic-penguin/cookbook-gnome
+[submodule "autohotkey-cookbook"]
+	path = autohotkey-cookbook
+	url = https://github.com/fromonesrc/autohotkey-cookbook
+[submodule "awscli-cookbook"]
+	path = awscli-cookbook
+	url = https://github.com/awslabs/awscli-cookbook
+[submodule "chef-aws-volume"]
+	path = chef-aws-volume
+	url = https://github.com/unixworld/chef-aws-volume
+[submodule "aws-sdk"]
+	path = aws-sdk
+	url = https://github.com/americanhonors-cookbooks/aws-sdk
+[submodule "aws-rds-cookbook"]
+	path = aws-rds-cookbook
+	url = https://github.com/gosuri/aws-rds-cookbook
+[submodule "aws"]
+	path = aws
+	url = https://github.com/opscode-cookbooks/aws
+[submodule "chef-aws-kms"]
+	path = chef-aws-kms
+	url = https://github.com/willejs/chef-aws-kms
+[submodule "aws_security"]
+	path = aws_security
+	url = https://github.com/SearchSpring/aws_security
+[submodule "aws-ec2-snapshot"]
+	path = aws-ec2-snapshot
+	url = https://github.com/jboeshart/aws-ec2-snapshot
+[submodule "chef-portage-snapshot"]
+	path = chef-portage-snapshot
+	url = https://github.com/erikmack/chef-portage-snapshot
+[submodule "drupal-windows"]
+	path = drupal-windows
+	url = https://github.com/chef-azure/drupal-windows
+[submodule "chef-bacula-backup"]
+	path = chef-bacula-backup
+	url = https://github.com/biola/chef-bacula-backup
+[submodule "backup"]
+	path = backup
+	url = https://github.com/damm/backup
+[submodule "chef-bacula"]
+	path = chef-bacula
+	url = https://github.com/computerlyrik/chef-bacula.git
+[submodule "chef-rdiff-backup"]
+	path = chef-rdiff-backup
+	url = https://github.com/kaimi/chef-rdiff-backup/
+[submodule "bacula-client"]
+	path = bacula-client
+	url = https://github.com/parallels-cookbooks/bacula-client
+[submodule "bacula-server"]
+	path = bacula-server
+	url = https://github.com/parallels-cookbooks/bacula-server
+[submodule "bash-shellshock"]
+	path = bash-shellshock
+	url = https://github.com/opscode-cookbooks/bash-shellshock
+[submodule "bash"]
+	path = bash
+	url = https://github.com/optiflows-cookbooks/bash
+[submodule "beanstalkd"]
+	path = beanstalkd
+	url = https://github.com/djoos-cookbooks/beanstalkd
+[submodule "beyondcompare"]
+	path = beyondcompare
+	url = https://github.com/daptiv/beyondcompare
+[submodule "powergui"]
+	path = powergui
+	url = https://github.com/gryte/powergui
+[submodule "boxstarter-cookbook"]
+	path = boxstarter-cookbook
+	url = https://github.com/mwrock/boxstarter-cookbook
+[submodule "powershell"]
+	path = powershell
+	url = https://github.com/chef-cookbooks/powershell
+[submodule "chef-graphite_powershell_functions"]
+	path = chef-graphite_powershell_functions
+	url = https://github.com/tas50/chef-graphite_powershell_functions
+[submodule "sbp_sysinternals"]
+	path = sbp_sysinternals
+	url = https://github.com/schubergphilis/sbp_sysinternals
+[submodule "chef-bginfo"]
+	path = chef-bginfo
+	url = https://github.com/X0nic/chef-bginfo
+[submodule "boost"]
+	path = boost
+	url = http://github.com/opscode-cookbooks/boost
+[submodule "boost-source-cookbook"]
+	path = boost-source-cookbook
+	url = https://github.com/saadware/boost-source-cookbook
+[submodule "chef-dk-gem"]
+	path = chef-dk-gem
+	url = https://github.com/fhanson/chef-dk-gem
+[submodule "chef-ha"]
+	path = chef-ha
+	url = https://github.com/activenetwork-automation/chef-ha
+[submodule "apt-chef"]
+	path = apt-chef
+	url = https://github.com/chef-cookbooks/apt-chef
+[submodule "ceph-chef"]
+	path = ceph-chef
+	url = https://github.com/ceph/ceph-chef
+[submodule "chef-eye"]
+	path = chef-eye
+	url = https://github.com/MurgaNikolay/chef-eye
+[submodule "chefdk_bootstrap"]
+	path = chefdk_bootstrap
+	url = https://github.com/Nordstrom/chefdk_bootstrap
+[submodule "cookbook-apt-nginx"]
+	path = cookbook-apt-nginx
+	url = https://github.com/st-isidore-de-seville/cookbook-apt-nginx
+[submodule "cookbook-nginx-pkg"]
+	path = cookbook-nginx-pkg
+	url = https://github.com/st-isidore-de-seville/cookbook-nginx-pkg
+[submodule "cookbook-yum-nginx"]
+	path = cookbook-yum-nginx
+	url = https://github.com/st-isidore-de-seville/cookbook-yum-nginx
+[submodule "chef-nginx_conf"]
+	path = chef-nginx_conf
+	url = https://github.com/tablexi/chef-nginx_conf
+[submodule "nginx"]
+	path = nginx
+	url = http://github.com/miketheman/nginx
+[submodule "cookbook-nginx-repo"]
+	path = cookbook-nginx-repo
+	url = https://github.com/st-isidore-de-seville/cookbook-nginx-repo
+[submodule "chef_nginx"]
+	path = chef_nginx
+	url = https://github.com/chef-cookbooks/chef_nginx
+[submodule "nginx_vhost"]
+	path = nginx_vhost
+	url = https://github.com/bbg-cookbooks/nginx_vhost
+[submodule "chef-cookbook-chef-server-webapp"]
+	path = chef-cookbook-chef-server-webapp
+	url = https://github.com/3ofcoins/chef-cookbook-chef-server-webapp
+[submodule "chef_server_omnibus"]
+	path = chef_server_omnibus
+	url = https://gitlab.com/dblessing/chef_server_omnibus
+[submodule "chef-server"]
+	path = chef-server
+	url = https://github.com/chef-cookbooks/chef-server
+[submodule "chef-server-ingredient"]
+	path = chef-server-ingredient
+	url = https://github.com/chef-cookbooks/chef-server-ingredient
+[submodule "chef-server-rds"]
+	path = chef-server-rds
+	url = https://github.com/50onRed/chef-server-rds.git
+[submodule "sql_server"]
+	path = sql_server
+	url = https://github.com/chef-cookbooks/sql_server
+[submodule "chef_cleaner"]
+	path = chef_cleaner
+	url = https://github.com/ctrlok/chef_cleaner
+[submodule "chef-updatedb"]
+	path = chef-updatedb
+	url = https://github.com/muratayusuke/chef-updatedb
+[submodule "chef-inwx-dns-updater"]
+	path = chef-inwx-dns-updater
+	url = https://github.com/kaimi/chef-inwx-dns-updater
+[submodule "nsclient-chef"]
+	path = nsclient-chef
+	url = https://github.com/ashmere/nsclient-chef
+[submodule "chocolatey-ohai-plugin"]
+	path = chocolatey-ohai-plugin
+	url = https://github.com/zl4bv/chocolatey-ohai-plugin
+[submodule "chocolatey-cookbook"]
+	path = chocolatey-cookbook
+	url = https://github.com/chocolatey/chocolatey-cookbook
+[submodule "chef_chruby_install"]
+	path = chef_chruby_install
+	url = https://github.com/ichilton/chef_chruby_install
+[submodule "chronos_cookbook"]
+	path = chronos_cookbook
+	url = https://github.com/mdsol/chronos_cookbook
+[submodule "chef-chrome"]
+	path = chef-chrome
+	url = https://github.com/dhoer/chef-chrome
+[submodule "chef-chromedriver"]
+	path = chef-chromedriver
+	url = https://github.com/dhoer/chef-chromedriver
+[submodule "firefox-custom"]
+	path = firefox-custom
+	url = https://github.com/digitalr00ts/firefox-custom
+[submodule "firefox"]
+	path = firefox
+	url = https://github.com/chef-cookbooks/firefox
+[submodule "chef-mozilla-firefox-sync"]
+	path = chef-mozilla-firefox-sync
+	url = https://github.com/computerlyrik/chef-mozilla-firefox-sync.git
+[submodule "chef-mozilla_firefox"]
+	path = chef-mozilla_firefox
+	url = https://github.com/dhoer/chef-mozilla_firefox
+[submodule "chef-operadriver"]
+	path = chef-operadriver
+	url = https://github.com/dhoer/chef-operadriver
+[submodule "chef-opera"]
+	path = chef-opera
+	url = https://github.com/dhoer/chef-opera
+[submodule "openvz"]
+	path = openvz
+	url = https://github.com/bbg-cookbooks/openvz
+[submodule "clamav"]
+	path = clamav
+	url = https://github.com/RoboticCheese/clamav
+[submodule "clamav-milter"]
+	path = clamav-milter
+	url = https://github.com/voroniys/clamav-milter
+[submodule "chef-collectd"]
+	path = chef-collectd
+	url = https://github.com/hectcastro/chef-collectd
+[submodule "collectd-abiquo-cookbook"]
+	path = collectd-abiquo-cookbook
+	url = https://github.com/abiquo/collectd-abiquo-cookbook
+[submodule "collectd-cookbook"]
+	path = collectd-cookbook
+	url = https://github.com/bloomberg/collectd-cookbook
+[submodule "collectd_plugins-cookbook"]
+	path = collectd_plugins-cookbook
+	url = https://github.com/bloomberg/collectd_plugins-cookbook
+[submodule "collectd-lib-cookbook"]
+	path = collectd-lib-cookbook
+	url = https://github.com/jsirex/collectd-lib-cookbook
+[submodule "chef-consul-ng"]
+	path = chef-consul-ng
+	url = https://github.com/vkhatri/chef-consul-ng
+[submodule "consul-cookbook"]
+	path = consul-cookbook
+	url = https://github.com/johnbellone/consul-cookbook
+[submodule "consul_kv_cookbook"]
+	path = consul_kv_cookbook
+	url = https://github.com/dpetzel/consul_kv_cookbook
+[submodule "consul_alerts-cookbook"]
+	path = consul_alerts-cookbook
+	url = https://github.com/dpetzel/consul_alerts-cookbook
+[submodule "consul-haproxy-cookbook"]
+	path = consul-haproxy-cookbook
+	url = https://github.com/aweber/consul-haproxy-cookbook
+[submodule "chef-consul-template"]
+	path = chef-consul-template
+	url = https://github.com/adamkrone/chef-consul-template
+[submodule "consul-cluster-cookbook"]
+	path = consul-cluster-cookbook
+	url = https://github.com/bloomberg/consul-cluster-cookbook
+[submodule "riak-cluster"]
+	path = riak-cluster
+	url = https://github.com/irvingpop/riak-cluster
+[submodule "ntp_cluster-cookbook"]
+	path = ntp_cluster-cookbook
+	url = https://github.com/evertrue/ntp_cluster-cookbook
+[submodule "vault-cluster-cookbook"]
+	path = vault-cluster-cookbook
+	url = https://github.com/bloomberg/vault-cluster-cookbook
+[submodule "storm-cookbook"]
+	path = storm-cookbook
+	url = https://github.com/Lewuathe/storm-cookbook
+[submodule "consul_template"]
+	path = consul_template
+	url = https://github.com/visioncritical/consul_template
+[submodule "couchpotato"]
+	path = couchpotato
+	url = https://github.com/multimedia-chef/couchpotato
+[submodule "chef-couchbase-ng"]
+	path = chef-couchbase-ng
+	url = https://github.com/zanui/chef-couchbase-ng
+[submodule "couchdb-cookbook"]
+	path = couchdb-cookbook
+	url = http://github.com/wohali/couchdb-cookbook
+[submodule "couchbase"]
+	path = couchbase
+	url = https://github.com/urbandecoder/couchbase
+[submodule "chef-couch"]
+	path = chef-couch
+	url = https://github.com/jarosser06/chef-couch
+[submodule "chef-cups"]
+	path = chef-cups
+	url = https://github.com/biola/chef-cups
+[submodule "dataduct-cookbook"]
+	path = dataduct-cookbook
+	url = https://github.com/peertransfer/dataduct-cookbook
+[submodule "cookbook-apt-docker"]
+	path = cookbook-apt-docker
+	url = https://github.com/st-isidore-de-seville/cookbook-apt-docker
+[submodule "cookbook-yum-docker"]
+	path = cookbook-yum-docker
+	url = https://github.com/st-isidore-de-seville/cookbook-yum-docker
+[submodule "chef-docker"]
+	path = chef-docker
+	url = https://github.com/chef-cookbooks/chef-docker
+[submodule "ms_dotnet2"]
+	path = ms_dotnet2
+	url = https://github.com/juliandunn/ms_dotnet2
+[submodule "ms_dotnet4"]
+	path = ms_dotnet4
+	url = https://github.com/chef-cookbooks/ms_dotnet4
+[submodule "dotnetcore-cookbook"]
+	path = dotnetcore-cookbook
+	url = https://github.com/acornies/dotnetcore-cookbook
+[submodule "ms_dotnet35"]
+	path = ms_dotnet35
+	url = https://github.com/chef-cookbooks/ms_dotnet35
+[submodule "ms_dotnet45"]
+	path = ms_dotnet45
+	url = https://github.com/chef-cookbooks/ms_dotnet45
+[submodule "ms_dotnet"]
+	path = ms_dotnet
+	url = https://github.com/criteo-cookbooks/ms_dotnet
+[submodule "AWS_ms_dotnet"]
+	path = AWS_ms_dotnet
+	url = https://github.com/yeungs/AWS_ms_dotnet
+[submodule "dotnetframework"]
+	path = dotnetframework
+	url = https://github.com/daptiv/dotnetframework
+[submodule "drbd"]
+	path = drbd
+	url = http://github.com/opscode-cookbooks/drbd
+[submodule "ec2configservice_cookbook"]
+	path = ec2configservice_cookbook
+	url = https://github.com/base2Services/ec2configservice_cookbook
+[submodule "emacs24"]
+	path = emacs24
+	url = https://github.com/sliim-cookbooks/emacs24
+[submodule "chef-mg"]
+	path = chef-mg
+	url = https://github.com/webframp/chef-mg
+[submodule "emacs"]
+	path = emacs
+	url = http://github.com/jtimberman/emacs
+[submodule "dovecot-cookbook"]
+	path = dovecot-cookbook
+	url = https://github.com/zuazo/dovecot-cookbook
+[submodule "yum-erlang_solutions"]
+	path = yum-erlang_solutions
+	url = https://github.com/chef-cookbooks/yum-erlang_solutions
+[submodule "erlang"]
+	path = erlang
+	url = http://github.com/chef-cookbooks/erlang
+[submodule "erlang-cookbook"]
+	path = erlang-cookbook
+	url = https://github.com/formatron/erlang-cookbook
+[submodule "etcd-client"]
+	path = etcd-client
+	url = https://github.com/elliott-davis/etcd-client
+[submodule "etcd"]
+	path = etcd
+	url = https://github.com/chef-cookbooks/etcd
+[submodule "etckeeper-cookbook"]
+	path = etckeeper-cookbook
+	url = https://github.com/pioneerit/etckeeper-cookbook
+[submodule "chef-zookeeper"]
+	path = chef-zookeeper
+	url = https://github.com/SimpleFinance/chef-zookeeper
+[submodule "chef-expect"]
+	path = chef-expect
+	url = https://github.com/rjaros87/chef-expect
+[submodule "fiddler"]
+	path = fiddler
+	url = https://github.com/daptiv/fiddler
+[submodule "chef-filebeat"]
+	path = chef-filebeat
+	url = https://github.com/vkhatri/chef-filebeat
+[submodule "filebeat-cookbook"]
+	path = filebeat-cookbook
+	url = https://github.com/formatron/filebeat-cookbook
+[submodule "s3_file"]
+	path = s3_file
+	url = https://github.com/adamsb6/s3_file/
+[submodule "FileZilla"]
+	path = FileZilla
+	url = https://github.com/lancepowell/FileZilla
+[submodule "chef-smokeping"]
+	path = chef-smokeping
+	url = https://github.com/tas50/chef-smokeping
+[submodule "chef-ghostdriver"]
+	path = chef-ghostdriver
+	url = https://github.com/dhoer/chef-ghostdriver
+[submodule "chef-iedriver"]
+	path = chef-iedriver
+	url = https://github.com/dhoer/chef-iedriver
+[submodule "ghost-cookbook"]
+	path = ghost-cookbook
+	url = https://github.com/cnunciato/ghost-cookbook
+[submodule "gimp-chef"]
+	path = gimp-chef
+	url = https://github.com/RoboticCheese/gimp-chef
+[submodule "gitlab-ce-cookbook"]
+	path = gitlab-ce-cookbook
+	url = https://github.com/kemra102/gitlab-ce-cookbook
+[submodule "gitlab-shell"]
+	path = gitlab-shell
+	url = https://github.com/feedhenry-cookbooks/gitlab-shell
+[submodule "cookbook-gitlab"]
+	path = cookbook-gitlab
+	url = http://github.com/atomic-penguin/cookbook-gitlab
+[submodule "chef-gitlab_omnibus"]
+	path = chef-gitlab_omnibus
+	url = https://gitlab.com/dblessing/chef-gitlab_omnibus
+[submodule "cookbook-gitlabhq"]
+	path = cookbook-gitlabhq
+	url = https://github.com/WideEyeLabs/cookbook-gitlabhq
+[submodule "cookbook-gitlab_runner"]
+	path = cookbook-gitlab_runner
+	url = https://github.com/daften/cookbook-gitlab_runner
+[submodule "gitlab-server"]
+	path = gitlab-server
+	url = https://github.com/lucasec/gitlab-server
+[submodule "gitlab-ci-runner"]
+	path = gitlab-ci-runner
+	url = https://gitlab.com/s4m-chef-repositories/gitlab-ci-runner
+[submodule "cookbook-google-drive"]
+	path = cookbook-google-drive
+	url = https://github.com/rilindo/cookbook-google-drive
+[submodule "god"]
+	path = god
+	url = https://github.com/xrl/god
+[submodule "grant_logon_as_service"]
+	path = grant_logon_as_service
+	url = https://github.com/ivadim/grant_logon_as_service
+[submodule "graphite"]
+	path = graphite
+	url = https://github.com/hw-cookbooks/graphite
+[submodule "cookbook-graphite-api"]
+	path = cookbook-graphite-api
+	url = https://github.com/odolbeau/cookbook-graphite-api
+[submodule "cookbook-graphite-influxdb"]
+	path = cookbook-graphite-influxdb
+	url = https://github.com/jarretth/cookbook-graphite-influxdb
+[submodule "graphite-cookbook"]
+	path = graphite-cookbook
+	url = https://github.com/formatron/graphite-cookbook
+[submodule "graphite_reporting_handler"]
+	path = graphite_reporting_handler
+	url = https://github.com/onbeep-cookbooks/graphite_reporting_handler
+[submodule "hadoop_cookbook"]
+	path = hadoop_cookbook
+	url = https://github.com/caskdata/hadoop_cookbook
+[submodule "et_haproxy-cookbook"]
+	path = et_haproxy-cookbook
+	url = https://github.com/evertrue/et_haproxy-cookbook
+[submodule "haproxy"]
+	path = haproxy
+	url = http://github.com/hw-cookbooks/haproxy
+[submodule "haproxy_lwrp"]
+	path = haproxy_lwrp
+	url = https://github.com/damm/haproxy_lwrp
+[submodule "chef-haproxy-ng"]
+	path = chef-haproxy-ng
+	url = https://github.com/nathwill/chef-haproxy-ng
+[submodule "chef-ziproxy"]
+	path = chef-ziproxy
+	url = https://github.com/frostyslav/chef-ziproxy
+[submodule "ssl-vault"]
+	path = ssl-vault
+	url = https://github.com/onbeep-cookbooks/ssl-vault
+[submodule "vault-cookbook"]
+	path = vault-cookbook
+	url = https://github.com/johnbellone/vault-cookbook
+[submodule "httpd"]
+	path = httpd
+	url = https://github.com/chef-cookbooks/httpd
+[submodule "iptables"]
+	path = iptables
+	url = https://github.com/chef-cookbooks/iptables
+[submodule "confd-iptables-cookbook"]
+	path = confd-iptables-cookbook
+	url = https://github.com/johnbellone/confd-iptables-cookbook
+[submodule "iptables-ng"]
+	path = iptables-ng
+	url = https://github.com/chr4-cookbooks/iptables-ng
+[submodule "cookbook-diptables"]
+	path = cookbook-diptables
+	url = https://github.com/wk8/cookbook-diptables
+[submodule "cookbook-simple-iptables"]
+	path = cookbook-simple-iptables
+	url = https://github.com/rtkwlf/cookbook-simple-iptables
+[submodule "chef-iptables-patterns"]
+	path = chef-iptables-patterns
+	url = https://github.com/inviqa/chef-iptables-patterns
+[submodule "jetty"]
+	path = jetty
+	url = https://github.com/hipsnip-cookbooks/jetty
+[submodule "zabbix_windows_chef"]
+	path = zabbix_windows_chef
+	url = https://github.com/thomasvincent/zabbix_windows_chef
+[submodule "nxlog"]
+	path = nxlog
+	url = http://github.com/widgit-cookbooks/nxlog/
+[submodule "ant"]
+	path = ant
+	url = http://github.com/opscode-cookbooks/ant
+[submodule "1password-cookbook"]
+	path = 1password-cookbook
+	url = https://github.com/jtimberman/1password-cookbook
+[submodule "kitchen-jenkins-cookbook"]
+	path = kitchen-jenkins-cookbook
+	url = https://github.com/jtimberman/kitchen-jenkins-cookbook
+[submodule "cis_benchmark-cookbook"]
+	path = cis_benchmark-cookbook
+	url = https://github.com/jtimberman/cis_benchmark-cookbook
+[submodule "chef-client-runit-cookbook"]
+	path = chef-client-runit-cookbook
+	url = https://github.com/jtimberman/chef-client-runit-cookbook
+[submodule "chef-pry-cookbook"]
+	path = chef-pry-cookbook
+	url = https://github.com/mattray/chef-pry-cookbook
+[submodule "cassandra_priam_cookbook"]
+	path = cassandra_priam_cookbook
+	url = https://github.com/atrull/cassandra_priam_cookbook
+[submodule "chef-privoxy"]
+	path = chef-privoxy
+	url = https://github.com/frostyslav/chef-privoxy
+[submodule "pritunl"]
+	path = pritunl
+	url = https://github.com/optiflows-cookbooks/pritunl
+[submodule "cookbook.windows_print"]
+	path = cookbook.windows_print
+	url = https://github.com/TAMUArch/cookbook.windows_print
+[submodule "kickstart-lwrp"]
+	path = kickstart-lwrp
+	url = https://github.com/stajkowski/kickstart-lwrp.git

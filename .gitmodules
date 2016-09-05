@@ -976,3 +976,6 @@
 [submodule "microsoft-remote-desktop-chef"]
 	path = microsoft-remote-desktop-chef
 	url = https://github.com/RoboticCheese/microsoft-remote-desktop-chef
+[submodule "remote_syslog"]
+	path = remote_syslog
+	url = https://github.com/bbg-cookbooks/remote_syslog

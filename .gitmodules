@@ -970,3 +970,6 @@
 [submodule "remote_syslog2-cookbook"]
 	path = remote_syslog2-cookbook
 	url = https://github.com/trappar/remote_syslog2-cookbook
+[submodule "yumserver-cookbook"]
+	path = yumserver-cookbook
+	url = https://github.com/kemra102/yumserver-cookbook

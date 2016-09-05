@@ -955,3 +955,6 @@
 [submodule "chef-ruby_install"]
 	path = chef-ruby_install
 	url = https://github.com/rosstimson/chef-ruby_install
+[submodule "tar-cookbook"]
+	path = tar-cookbook
+	url = https://github.com/gofullstack/tar-cookbook

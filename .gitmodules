@@ -973,3 +973,6 @@
 [submodule "yumserver-cookbook"]
 	path = yumserver-cookbook
 	url = https://github.com/kemra102/yumserver-cookbook
+[submodule "microsoft-remote-desktop-chef"]
+	path = microsoft-remote-desktop-chef
+	url = https://github.com/RoboticCheese/microsoft-remote-desktop-chef

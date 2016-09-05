@@ -958,3 +958,6 @@
 [submodule "tar-cookbook"]
 	path = tar-cookbook
 	url = https://github.com/gofullstack/tar-cookbook
+[submodule "remote_install"]
+	path = remote_install
+	url = https://github.com/chef-cookbooks/remote_install

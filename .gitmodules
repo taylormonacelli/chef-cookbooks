@@ -964,3 +964,6 @@
 [submodule "ufw_install"]
 	path = ufw_install
 	url = https://github.com/higanworks-cookbooks/ufw_install
+[submodule "chef-ruby-install"]
+	path = chef-ruby-install
+	url = https://github.com/tombruijn/chef-ruby-install

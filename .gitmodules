@@ -952,3 +952,6 @@
 [submodule "kickstart-lwrp"]
 	path = kickstart-lwrp
 	url = https://github.com/stajkowski/kickstart-lwrp.git
+[submodule "chef-ruby_install"]
+	path = chef-ruby_install
+	url = https://github.com/rosstimson/chef-ruby_install

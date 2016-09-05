@@ -967,3 +967,6 @@
 [submodule "chef-ruby-install"]
 	path = chef-ruby-install
 	url = https://github.com/tombruijn/chef-ruby-install
+[submodule "remote_syslog2-cookbook"]
+	path = remote_syslog2-cookbook
+	url = https://github.com/trappar/remote_syslog2-cookbook

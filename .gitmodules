@@ -961,3 +961,6 @@
 [submodule "remote_install"]
 	path = remote_install
 	url = https://github.com/chef-cookbooks/remote_install
+[submodule "ufw_install"]
+	path = ufw_install
+	url = https://github.com/higanworks-cookbooks/ufw_install

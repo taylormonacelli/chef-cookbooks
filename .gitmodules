@@ -979,3 +979,6 @@
 [submodule "remote_syslog"]
 	path = remote_syslog
 	url = https://github.com/bbg-cookbooks/remote_syslog
+[submodule "chef-splunk"]
+	path = chef-splunk
+	url = https://github.com/opscode-cookbooks/chef-splunk

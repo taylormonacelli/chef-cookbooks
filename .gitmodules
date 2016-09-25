@@ -994,3 +994,6 @@
 [submodule "chef-client"]
 	path = chef-client
 	url = http://github.com/opscode-cookbooks/chef-client
+[submodule "zenoss_client-chef-cookbook"]
+	path = zenoss_client-chef-cookbook
+	url = https://github.com/ZCA/zenoss_client-chef-cookbook

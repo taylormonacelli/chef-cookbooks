@@ -985,3 +985,6 @@
 [submodule "chef_sensu_client"]
 	path = chef_sensu_client
 	url = https://github.com/ichilton/chef_sensu_client
+[submodule "wsus-client"]
+	path = wsus-client
+	url = https://github.com/criteo-cookbooks/wsus-client

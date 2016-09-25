@@ -997,3 +997,6 @@
 [submodule "zenoss_client-chef-cookbook"]
 	path = zenoss_client-chef-cookbook
 	url = https://github.com/ZCA/zenoss_client-chef-cookbook
+[submodule "chef-oracle-client"]
+	path = chef-oracle-client
+	url = https://github.com/universityofderby/chef-oracle-client

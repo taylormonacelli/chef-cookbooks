@@ -991,3 +991,6 @@
 [submodule "x2go-client"]
 	path = x2go-client
 	url = https://github.com/socrata-cookbooks/x2go-client
+[submodule "chef-client"]
+	path = chef-client
+	url = http://github.com/opscode-cookbooks/chef-client

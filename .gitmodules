@@ -982,3 +982,6 @@
 [submodule "chef-splunk"]
 	path = chef-splunk
 	url = https://github.com/opscode-cookbooks/chef-splunk
+[submodule "chef_sensu_client"]
+	path = chef_sensu_client
+	url = https://github.com/ichilton/chef_sensu_client

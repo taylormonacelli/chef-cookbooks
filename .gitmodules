@@ -988,3 +988,6 @@
 [submodule "wsus-client"]
 	path = wsus-client
 	url = https://github.com/criteo-cookbooks/wsus-client
+[submodule "x2go-client"]
+	path = x2go-client
+	url = https://github.com/socrata-cookbooks/x2go-client

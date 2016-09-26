@@ -1000,3 +1000,6 @@
 [submodule "chef-oracle-client"]
 	path = chef-oracle-client
 	url = https://github.com/universityofderby/chef-oracle-client
+[submodule "library-demo-cookbook"]
+	path = library-demo-cookbook
+	url = https://github.com/juliandunn/library-demo-cookbook.git

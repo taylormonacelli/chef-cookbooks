@@ -1003,3 +1003,6 @@
 [submodule "library-demo-cookbook"]
 	path = library-demo-cookbook
 	url = https://github.com/juliandunn/library-demo-cookbook.git
+[submodule "motd_custom_resource"]
+	path = motd_custom_resource
+	url = https://github.com/pburkholder/motd_custom_resource.git

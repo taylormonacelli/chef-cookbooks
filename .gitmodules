@@ -1015,3 +1015,6 @@
 [submodule "cookbook.mediacore"]
 	path = cookbook.mediacore
 	url = https://github.com/TAMUArch/cookbook.mediacore
+[submodule "media"]
+	path = media
+	url = http://github.com/arangamani-cookbooks/media

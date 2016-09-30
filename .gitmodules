@@ -1009,3 +1009,6 @@
 [submodule "sd.chef.mediawiki"]
 	path = sd.chef.mediawiki
 	url = https://github.com/spindance-ops/sd.chef.mediawiki.git
+[submodule "mediawiki_backup"]
+	path = mediawiki_backup
+	url = https://github.com/acholt-cookbooks/mediawiki_backup

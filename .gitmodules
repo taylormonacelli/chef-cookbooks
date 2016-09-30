@@ -1006,3 +1006,6 @@
 [submodule "motd_custom_resource"]
 	path = motd_custom_resource
 	url = https://github.com/pburkholder/motd_custom_resource.git
+[submodule "sd.chef.mediawiki"]
+	path = sd.chef.mediawiki
+	url = https://github.com/spindance-ops/sd.chef.mediawiki.git

@@ -1012,3 +1012,6 @@
 [submodule "mediawiki_backup"]
 	path = mediawiki_backup
 	url = https://github.com/acholt-cookbooks/mediawiki_backup
+[submodule "cookbook.mediacore"]
+	path = cookbook.mediacore
+	url = https://github.com/TAMUArch/cookbook.mediacore

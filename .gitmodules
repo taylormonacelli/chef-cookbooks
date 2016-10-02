@@ -1018,3 +1018,6 @@
 [submodule "media"]
 	path = media
 	url = http://github.com/arangamani-cookbooks/media
+[submodule "chef-windows_home"]
+	path = chef-windows_home
+	url = https://github.com/dhoer/chef-windows_home

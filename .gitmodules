@@ -1021,3 +1021,6 @@
 [submodule "chef-windows_home"]
 	path = chef-windows_home
 	url = https://github.com/dhoer/chef-windows_home
+[submodule "mysql-opscode"]
+	path = mysql-opscode
+	url = https://github.com/chef-cookbooks/mysql.git

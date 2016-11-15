@@ -1024,3 +1024,6 @@
 [submodule "mysql-opscode"]
 	path = mysql-opscode
 	url = https://github.com/chef-cookbooks/mysql.git
+[submodule "chef-nssm"]
+	path = chef-nssm
+	url = https://github.com/dhoer/chef-nssm.git

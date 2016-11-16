@@ -1870,3 +1870,6 @@
 [submodule "hubot"]
 	path = hubot
 	url = https://github.com/chef-cookbooks/hubot
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/chef-cookbooks/jenkins

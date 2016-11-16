@@ -1429,3 +1429,6 @@
 [submodule "libarchive3-sys"]
 	path = libarchive3-sys
 	url = https://github.com/chef/libarchive3-sys.git
+[submodule "libyajl2-gem"]
+	path = libyajl2-gem
+	url = https://github.com/chef/libyajl2-gem.git

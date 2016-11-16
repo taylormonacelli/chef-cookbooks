@@ -1603,3 +1603,6 @@
 [submodule "opscoderl_httpc"]
 	path = opscoderl_httpc
 	url = https://github.com/chef/opscoderl_httpc.git
+[submodule "opscoderl_wm"]
+	path = opscoderl_wm
+	url = https://github.com/chef/opscoderl_wm.git

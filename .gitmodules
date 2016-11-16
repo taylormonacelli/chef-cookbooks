@@ -1690,3 +1690,6 @@
 [submodule "vagrant-omnibus"]
 	path = vagrant-omnibus
 	url = https://github.com/chef/vagrant-omnibus.git
+[submodule "webmachine"]
+	path = webmachine
+	url = https://github.com/chef/webmachine.git

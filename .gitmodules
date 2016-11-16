@@ -1777,3 +1777,6 @@
 [submodule "community_cookbook_documentation"]
 	path = community_cookbook_documentation
 	url = https://github.com/chef-cookbooks/community_cookbook_documentation
+[submodule "community_cookbook_tools"]
+	path = community_cookbook_tools
+	url = https://github.com/chef-cookbooks/community_cookbook_tools

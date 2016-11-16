@@ -1456,3 +1456,6 @@
 [submodule "load-grunt-config"]
 	path = load-grunt-config
 	url = https://github.com/chef/load-grunt-config.git
+[submodule "mailing-list"]
+	path = mailing-list
+	url = https://github.com/chef/mailing-list.git

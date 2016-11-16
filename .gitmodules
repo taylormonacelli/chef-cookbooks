@@ -1459,3 +1459,6 @@
 [submodule "mailing-list"]
 	path = mailing-list
 	url = https://github.com/chef/mailing-list.git
+[submodule "mini_s3"]
+	path = mini_s3
+	url = https://github.com/chef/mini_s3.git

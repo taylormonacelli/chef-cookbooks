@@ -1396,3 +1396,6 @@
 [submodule "knife-google"]
 	path = knife-google
 	url = https://github.com/chef/knife-google.git
+[submodule "knife-kvm"]
+	path = knife-kvm
+	url = https://github.com/chef/knife-kvm.git

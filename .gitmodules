@@ -2032,3 +2032,6 @@
 [submodule "yum-remi-chef"]
 	path = yum-remi-chef
 	url = https://github.com/chef-cookbooks/yum-remi-chef
+[submodule "yum-repoforge"]
+	path = yum-repoforge
+	url = https://github.com/chef-cookbooks/yum-repoforge

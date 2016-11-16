@@ -1111,3 +1111,6 @@
 [submodule "chef-provisioning-central"]
 	path = chef-provisioning-central
 	url = https://github.com/chef/chef-provisioning-central.git
+[submodule "chef-provisioning-docker"]
+	path = chef-provisioning-docker
+	url = https://github.com/chef/chef-provisioning-docker.git

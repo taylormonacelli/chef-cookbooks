@@ -1711,3 +1711,6 @@
 [submodule "activemq"]
 	path = activemq
 	url = https://github.com/chef-cookbooks/activemq
+[submodule "aix"]
+	path = aix
+	url = https://github.com/chef-cookbooks/aix

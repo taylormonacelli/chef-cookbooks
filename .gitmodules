@@ -1105,3 +1105,6 @@
 [submodule "chef-provisioning-aws"]
 	path = chef-provisioning-aws
 	url = https://github.com/chef/chef-provisioning-aws.git
+[submodule "chef-provisioning-azure"]
+	path = chef-provisioning-azure
+	url = https://github.com/chef/chef-provisioning-azure.git

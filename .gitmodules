@@ -1450,3 +1450,6 @@
 [submodule "lita-test"]
 	path = lita-test
 	url = https://github.com/chef/lita-test.git
+[submodule "lita_versioner"]
+	path = lita_versioner
+	url = https://github.com/chef/lita_versioner.git

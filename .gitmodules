@@ -1285,3 +1285,6 @@
 [submodule "efast_xs"]
 	path = efast_xs
 	url = https://github.com/chef/efast_xs.git
+[submodule "enterprise-chef-server-schema"]
+	path = enterprise-chef-server-schema
+	url = https://github.com/chef/enterprise-chef-server-schema.git

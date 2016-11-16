@@ -1033,3 +1033,6 @@
 [submodule "LicenseFinder"]
 	path = LicenseFinder
 	url = https://github.com/chef/LicenseFinder.git
+[submodule "analytics-splunk-app"]
+	path = analytics-splunk-app
+	url = https://github.com/chef/analytics-splunk-app.git

@@ -1900,3 +1900,6 @@
 [submodule "now"]
 	path = now
 	url = https://github.com/chef-cookbooks/now
+[submodule "nscd"]
+	path = nscd
+	url = https://github.com/chef-cookbooks/nscd

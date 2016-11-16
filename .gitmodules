@@ -1813,3 +1813,6 @@
 [submodule "delivery_build"]
 	path = delivery_build
 	url = https://github.com/chef-cookbooks/delivery_build
+[submodule "djbdns"]
+	path = djbdns
+	url = https://github.com/chef-cookbooks/djbdns

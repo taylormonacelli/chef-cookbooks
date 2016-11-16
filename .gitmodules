@@ -1324,3 +1324,6 @@
 [submodule "esaml"]
 	path = esaml
 	url = https://github.com/chef/esaml.git
+[submodule "estatsd"]
+	path = estatsd
+	url = https://github.com/chef/estatsd.git

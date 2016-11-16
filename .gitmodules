@@ -1165,3 +1165,6 @@
 [submodule "chef-vault-testfixtures"]
 	path = chef-vault-testfixtures
 	url = https://github.com/chef/chef-vault-testfixtures.git
+[submodule "chef-vault"]
+	path = chef-vault
+	url = https://github.com/chef/chef-vault.git

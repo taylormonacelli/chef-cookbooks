@@ -1753,3 +1753,6 @@
 [submodule "chef-reference"]
 	path = chef-reference
 	url = https://github.com/chef-cookbooks/chef-reference
+[submodule "chef-server-cluster"]
+	path = chef-server-cluster
+	url = https://github.com/chef-cookbooks/chef-server-cluster

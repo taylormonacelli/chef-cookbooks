@@ -1837,3 +1837,6 @@
 [submodule "fail2ban"]
 	path = fail2ban
 	url = https://github.com/chef-cookbooks/fail2ban
+[submodule "fastly"]
+	path = fastly
+	url = https://github.com/chef-cookbooks/fastly

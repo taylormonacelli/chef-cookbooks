@@ -1930,3 +1930,6 @@
 [submodule "pkgutil"]
 	path = pkgutil
 	url = https://github.com/chef-cookbooks/pkgutil
+[submodule "postfix"]
+	path = postfix
+	url = https://github.com/chef-cookbooks/postfix

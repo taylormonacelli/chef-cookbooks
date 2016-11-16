@@ -1567,3 +1567,6 @@
 [submodule "omnibus-toolchain"]
 	path = omnibus-toolchain
 	url = https://github.com/chef/omnibus-toolchain.git
+[submodule "omnibus"]
+	path = omnibus
+	url = https://github.com/chef/omnibus.git

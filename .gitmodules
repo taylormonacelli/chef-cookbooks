@@ -1099,3 +1099,6 @@
 [submodule "chef-pr-freq"]
 	path = chef-pr-freq
 	url = https://github.com/chef/chef-pr-freq.git
+[submodule "chef-provisioning-aws-demo"]
+	path = chef-provisioning-aws-demo
+	url = https://github.com/chef/chef-provisioning-aws-demo.git

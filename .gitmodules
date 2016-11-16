@@ -1384,3 +1384,6 @@
 [submodule "knife-azure"]
 	path = knife-azure
 	url = https://github.com/chef/knife-azure.git
+[submodule "knife-cloud"]
+	path = knife-cloud
+	url = https://github.com/chef/knife-cloud.git

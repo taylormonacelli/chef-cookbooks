@@ -1717,3 +1717,6 @@
 [submodule "analytics-cluster"]
 	path = analytics-cluster
 	url = https://github.com/chef-cookbooks/analytics-cluster
+[submodule "apparmor"]
+	path = apparmor
+	url = https://github.com/chef-cookbooks/apparmor

@@ -1765,3 +1765,6 @@
 [submodule "chef_server_image"]
 	path = chef_server_image
 	url = https://github.com/chef-cookbooks/chef_server_image
+[submodule "chef_slack"]
+	path = chef_slack
+	url = https://github.com/chef-cookbooks/chef_slack

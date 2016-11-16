@@ -1783,3 +1783,6 @@
 [submodule "compat_resource"]
 	path = compat_resource
 	url = https://github.com/chef-cookbooks/compat_resource
+[submodule "cookbook-quality-metrics"]
+	path = cookbook-quality-metrics
+	url = https://github.com/chef-cookbooks/cookbook-quality-metrics

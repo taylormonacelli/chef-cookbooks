@@ -1582,3 +1582,6 @@
 [submodule "opscode-omnibus"]
 	path = opscode-omnibus
 	url = https://github.com/chef/opscode-omnibus.git
+[submodule "opscode-pushy-client"]
+	path = opscode-pushy-client
+	url = https://github.com/chef/opscode-pushy-client.git

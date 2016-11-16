@@ -1750,3 +1750,6 @@
 [submodule "chef-ingredient"]
 	path = chef-ingredient
 	url = https://github.com/chef-cookbooks/chef-ingredient
+[submodule "chef-reference"]
+	path = chef-reference
+	url = https://github.com/chef-cookbooks/chef-reference

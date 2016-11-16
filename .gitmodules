@@ -1633,3 +1633,6 @@
 [submodule "rabbit_common"]
 	path = rabbit_common
 	url = https://github.com/chef/rabbit_common.git
+[submodule "railsconf2015-chef"]
+	path = railsconf2015-chef
+	url = https://github.com/chef/railsconf2015-chef.git

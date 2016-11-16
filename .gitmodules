@@ -1054,3 +1054,6 @@
 [submodule "artifactory-client"]
 	path = artifactory-client
 	url = https://github.com/chef/artifactory-client.git
+[submodule "aws-s3"]
+	path = aws-s3
+	url = https://github.com/chef/aws-s3.git

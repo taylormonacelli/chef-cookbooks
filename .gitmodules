@@ -1942,3 +1942,6 @@
 [submodule "resource"]
 	path = resource
 	url = https://github.com/chef-cookbooks/resource
+[submodule "route53"]
+	path = route53
+	url = https://github.com/chef-cookbooks/route53

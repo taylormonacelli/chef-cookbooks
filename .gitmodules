@@ -1234,3 +1234,6 @@
 [submodule "cookbook-omnifetch"]
 	path = cookbook-omnifetch
 	url = https://github.com/chef/cookbook-omnifetch.git
+[submodule "cookstyle"]
+	path = cookstyle
+	url = https://github.com/chef/cookstyle.git

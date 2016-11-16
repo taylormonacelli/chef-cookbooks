@@ -1327,3 +1327,6 @@
 [submodule "estatsd"]
 	path = estatsd
 	url = https://github.com/chef/estatsd.git
+[submodule "etap"]
+	path = etap
+	url = https://github.com/chef/etap.git

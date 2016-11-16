@@ -1624,3 +1624,6 @@
 [submodule "pushy_common"]
 	path = pushy_common
 	url = https://github.com/chef/pushy_common.git
+[submodule "qa-chef-server-cluster"]
+	path = qa-chef-server-cluster
+	url = https://github.com/chef/qa-chef-server-cluster.git

@@ -2038,3 +2038,6 @@
 [submodule "zlib"]
 	path = zlib
 	url = https://github.com/chef-cookbooks/zlib
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/chef-cookbooks/zsh

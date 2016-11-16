@@ -1561,3 +1561,6 @@
 [submodule "omnibus-push-jobs-client"]
 	path = omnibus-push-jobs-client
 	url = https://github.com/chef/omnibus-push-jobs-client.git
+[submodule "omnibus-software"]
+	path = omnibus-software
+	url = https://github.com/chef/omnibus-software.git

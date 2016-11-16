@@ -1219,3 +1219,6 @@
 [submodule "codeclimate-foodcritic"]
 	path = codeclimate-foodcritic
 	url = https://github.com/chef/codeclimate-foodcritic.git
+[submodule "community-summits"]
+	path = community-summits
+	url = https://github.com/chef/community-summits.git

@@ -1888,3 +1888,6 @@
 [submodule "languages"]
 	path = languages
 	url = https://github.com/chef-cookbooks/languages
+[submodule "libuuid-user"]
+	path = libuuid-user
+	url = https://github.com/chef-cookbooks/libuuid-user

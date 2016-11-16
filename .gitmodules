@@ -1894,3 +1894,6 @@
 [submodule "mysql_chef_gem"]
 	path = mysql_chef_gem
 	url = https://github.com/chef-cookbooks/mysql_chef_gem
+[submodule "nopcommerce"]
+	path = nopcommerce
+	url = https://github.com/chef-cookbooks/nopcommerce

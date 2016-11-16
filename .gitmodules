@@ -1987,3 +1987,6 @@
 [submodule "supermarket-omnibus-cookbook"]
 	path = supermarket-omnibus-cookbook
 	url = https://github.com/chef-cookbooks/supermarket-omnibus-cookbook
+[submodule "tftp"]
+	path = tftp
+	url = https://github.com/chef-cookbooks/tftp

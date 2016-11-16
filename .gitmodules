@@ -1873,3 +1873,6 @@
 [submodule "jenkins"]
 	path = jenkins
 	url = https://github.com/chef-cookbooks/jenkins
+[submodule "jpackage"]
+	path = jpackage
+	url = https://github.com/chef-cookbooks/jpackage

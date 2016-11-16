@@ -1735,3 +1735,6 @@
 [submodule "awscreds"]
 	path = awscreds
 	url = https://github.com/chef-cookbooks/awscreds
+[submodule "bluepill"]
+	path = bluepill
+	url = https://github.com/chef-cookbooks/bluepill

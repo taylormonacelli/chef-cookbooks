@@ -1375,3 +1375,6 @@
 [submodule "kitchen-inspec"]
 	path = kitchen-inspec
 	url = https://github.com/chef/kitchen-inspec.git
+[submodule "knife-acl"]
+	path = knife-acl
+	url = https://github.com/chef/knife-acl.git

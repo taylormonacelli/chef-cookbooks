@@ -1315,3 +1315,6 @@
 [submodule "erlsom"]
 	path = erlsom
 	url = https://github.com/chef/erlsom.git
+[submodule "erlware_commons"]
+	path = erlware_commons
+	url = https://github.com/chef/erlware_commons.git

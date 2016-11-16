@@ -1402,3 +1402,6 @@
 [submodule "knife-linode"]
 	path = knife-linode
 	url = https://github.com/chef/knife-linode.git
+[submodule "knife-lpar"]
+	path = knife-lpar
+	url = https://github.com/chef/knife-lpar.git

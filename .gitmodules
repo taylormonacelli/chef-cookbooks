@@ -1924,3 +1924,6 @@
 [submodule "pcb"]
 	path = pcb
 	url = https://github.com/chef-cookbooks/pcb
+[submodule "perl"]
+	path = perl
+	url = https://github.com/chef-cookbooks/perl

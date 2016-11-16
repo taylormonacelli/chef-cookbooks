@@ -1210,3 +1210,6 @@
 [submodule "cheffish"]
 	path = cheffish
 	url = https://github.com/chef/cheffish.git
+[submodule "chefops-plans"]
+	path = chefops-plans
+	url = https://github.com/chef/chefops-plans.git

@@ -1411,3 +1411,6 @@
 [submodule "knife-openstack"]
 	path = knife-openstack
 	url = https://github.com/chef/knife-openstack.git
+[submodule "knife-push"]
+	path = knife-push
+	url = https://github.com/chef/knife-push.git

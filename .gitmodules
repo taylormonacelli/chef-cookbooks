@@ -1660,3 +1660,6 @@
 [submodule "sdlc-facilitators-guide"]
 	path = sdlc-facilitators-guide
 	url = https://github.com/chef/sdlc-facilitators-guide.git
+[submodule "simple-web"]
+	path = simple-web
+	url = https://github.com/chef/simple-web.git

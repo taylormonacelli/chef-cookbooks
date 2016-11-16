@@ -1372,3 +1372,6 @@
 [submodule "kitchen-appbundle-updater"]
 	path = kitchen-appbundle-updater
 	url = https://github.com/chef/kitchen-appbundle-updater.git
+[submodule "kitchen-inspec"]
+	path = kitchen-inspec
+	url = https://github.com/chef/kitchen-inspec.git

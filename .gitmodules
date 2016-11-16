@@ -1129,3 +1129,6 @@
 [submodule "chef-provisioning-ssh"]
 	path = chef-provisioning-ssh
 	url = https://github.com/chef/chef-provisioning-ssh.git
+[submodule "chef-provisioning-vagrant"]
+	path = chef-provisioning-vagrant
+	url = https://github.com/chef/chef-provisioning-vagrant.git

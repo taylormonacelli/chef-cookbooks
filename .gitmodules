@@ -1642,3 +1642,6 @@
 [submodule "rebar"]
 	path = rebar
 	url = https://github.com/chef/rebar.git
+[submodule "relx"]
+	path = relx
+	url = https://github.com/chef/relx.git

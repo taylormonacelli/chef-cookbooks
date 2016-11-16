@@ -1705,3 +1705,6 @@
 [submodule "wordpress-tribe-events-api-plugin"]
 	path = wordpress-tribe-events-api-plugin
 	url = https://github.com/chef/wordpress-tribe-events-api-plugin.git
+[submodule "zeromq4-x"]
+	path = zeromq4-x
+	url = https://github.com/chef/zeromq4-x.git

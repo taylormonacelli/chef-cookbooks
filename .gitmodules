@@ -2014,3 +2014,6 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/chef-cookbooks/vim
+[submodule "webpi"]
+	path = webpi
+	url = https://github.com/chef-cookbooks/webpi

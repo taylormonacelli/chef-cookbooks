@@ -1738,3 +1738,6 @@
 [submodule "bluepill"]
 	path = bluepill
 	url = https://github.com/chef-cookbooks/bluepill
+[submodule "chef-analytics"]
+	path = chef-analytics
+	url = https://github.com/chef-cookbooks/chef-analytics

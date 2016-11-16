@@ -1477,3 +1477,6 @@
 [submodule "mixlib-authorization"]
 	path = mixlib-authorization
 	url = https://github.com/chef/mixlib-authorization.git
+[submodule "mixlib-cli"]
+	path = mixlib-cli
+	url = https://github.com/chef/mixlib-cli.git

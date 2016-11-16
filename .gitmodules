@@ -1720,3 +1720,6 @@
 [submodule "apparmor"]
 	path = apparmor
 	url = https://github.com/chef-cookbooks/apparmor
+[submodule "apt"]
+	path = apt
+	url = https://github.com/chef-cookbooks/apt

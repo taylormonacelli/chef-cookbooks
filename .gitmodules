@@ -1537,3 +1537,6 @@
 [submodule "ohai"]
 	path = ohai
 	url = https://github.com/chef/ohai.git
+[submodule "omniauth-chef-oauth2"]
+	path = omniauth-chef-oauth2
+	url = https://github.com/chef/omniauth-chef-oauth2.git

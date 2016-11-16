@@ -1960,3 +1960,6 @@
 [submodule "smokeping"]
 	path = smokeping
 	url = https://github.com/chef-cookbooks/smokeping
+[submodule "sqitch"]
+	path = sqitch
+	url = https://github.com/chef-cookbooks/sqitch

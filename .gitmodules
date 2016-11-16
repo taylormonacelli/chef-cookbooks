@@ -1771,3 +1771,6 @@
 [submodule "cis-el7-l1-hardening"]
 	path = cis-el7-l1-hardening
 	url = https://github.com/chef-cookbooks/cis-el7-l1-hardening
+[submodule "client-rekey"]
+	path = client-rekey
+	url = https://github.com/chef-cookbooks/client-rekey

@@ -1075,3 +1075,6 @@
 [submodule "chef-acceptance"]
 	path = chef-acceptance
 	url = https://github.com/chef/chef-acceptance.git
+[submodule "chef-analytics-api"]
+	path = chef-analytics-api
+	url = https://github.com/chef/chef-analytics-api.git

@@ -1708,3 +1708,6 @@
 [submodule "zeromq4-x"]
 	path = zeromq4-x
 	url = https://github.com/chef/zeromq4-x.git
+[submodule "activemq"]
+	path = activemq
+	url = https://github.com/chef-cookbooks/activemq

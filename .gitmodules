@@ -1423,3 +1423,6 @@
 [submodule "knife-windows"]
 	path = knife-windows
 	url = https://github.com/chef/knife-windows.git
+[submodule "libarchive-rust"]
+	path = libarchive-rust
+	url = https://github.com/chef/libarchive-rust.git

@@ -1540,3 +1540,6 @@
 [submodule "omniauth-chef-oauth2"]
 	path = omniauth-chef-oauth2
 	url = https://github.com/chef/omniauth-chef-oauth2.git
+[submodule "omniauth-chef"]
+	path = omniauth-chef
+	url = https://github.com/chef/omniauth-chef.git

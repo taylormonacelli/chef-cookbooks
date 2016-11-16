@@ -1489,3 +1489,6 @@
 [submodule "mixlib-log"]
 	path = mixlib-log
 	url = https://github.com/chef/mixlib-log.git
+[submodule "mixlib-shellout"]
+	path = mixlib-shellout
+	url = https://github.com/chef/mixlib-shellout.git

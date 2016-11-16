@@ -1462,3 +1462,6 @@
 [submodule "mini_s3"]
 	path = mini_s3
 	url = https://github.com/chef/mini_s3.git
+[submodule "minitest-chef-handler"]
+	path = minitest-chef-handler
+	url = https://github.com/chef/minitest-chef-handler.git

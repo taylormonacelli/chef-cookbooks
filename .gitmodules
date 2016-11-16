@@ -1654,3 +1654,6 @@
 [submodule "rubygems"]
 	path = rubygems
 	url = https://github.com/chef/rubygems.git
+[submodule "s3-tests"]
+	path = s3-tests
+	url = https://github.com/chef/s3-tests.git

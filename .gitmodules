@@ -1417,3 +1417,6 @@
 [submodule "knife-rackspace"]
 	path = knife-rackspace
 	url = https://github.com/chef/knife-rackspace.git
+[submodule "knife-reporting"]
+	path = knife-reporting
+	url = https://github.com/chef/knife-reporting.git

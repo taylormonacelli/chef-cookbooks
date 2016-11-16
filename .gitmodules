@@ -1078,3 +1078,6 @@
 [submodule "chef-analytics-api"]
 	path = chef-analytics-api
 	url = https://github.com/chef/chef-analytics-api.git
+[submodule "chef-backend-demo"]
+	path = chef-backend-demo
+	url = https://github.com/chef/chef-backend-demo.git

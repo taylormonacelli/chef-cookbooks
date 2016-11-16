@@ -1264,3 +1264,6 @@
 [submodule "depsolver"]
 	path = depsolver
 	url = https://github.com/chef/depsolver.git
+[submodule "devchef"]
+	path = devchef
+	url = https://github.com/chef/devchef.git

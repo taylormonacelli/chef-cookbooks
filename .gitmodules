@@ -1915,3 +1915,6 @@
 [submodule "pantry"]
 	path = pantry
 	url = https://github.com/chef-cookbooks/pantry
+[submodule "partial_search"]
+	path = partial_search
+	url = https://github.com/chef-cookbooks/partial_search

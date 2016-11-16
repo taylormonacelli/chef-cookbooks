@@ -1591,3 +1591,6 @@
 [submodule "opscode-pushy-simulator"]
 	path = opscode-pushy-simulator
 	url = https://github.com/chef/opscode-pushy-simulator.git
+[submodule "opscode-rebar-templates"]
+	path = opscode-rebar-templates
+	url = https://github.com/chef/opscode-rebar-templates.git

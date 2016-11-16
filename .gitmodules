@@ -1501,3 +1501,6 @@
 [submodule "moser"]
 	path = moser
 	url = https://github.com/chef/moser.git
+[submodule "msys-bash"]
+	path = msys-bash
+	url = https://github.com/chef/msys-bash.git

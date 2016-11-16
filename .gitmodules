@@ -1789,3 +1789,6 @@
 [submodule "deb_pkg_unautostart"]
 	path = deb_pkg_unautostart
 	url = https://github.com/chef-cookbooks/deb_pkg_unautostart
+[submodule "delivery-base"]
+	path = delivery-base
+	url = https://github.com/chef-cookbooks/delivery-base

@@ -1330,3 +1330,6 @@
 [submodule "etap"]
 	path = etap
 	url = https://github.com/chef/etap.git
+[submodule "fast-log-erlang"]
+	path = fast-log-erlang
+	url = https://github.com/chef/fast-log-erlang.git

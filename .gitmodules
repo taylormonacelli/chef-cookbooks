@@ -1882,3 +1882,6 @@
 [submodule "kickstart"]
 	path = kickstart
 	url = https://github.com/chef-cookbooks/kickstart
+[submodule "kimchi"]
+	path = kimchi
+	url = https://github.com/chef-cookbooks/kimchi

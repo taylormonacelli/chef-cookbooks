@@ -1954,3 +1954,6 @@
 [submodule "ruby"]
 	path = ruby
 	url = https://github.com/chef-cookbooks/ruby
+[submodule "runit"]
+	path = runit
+	url = https://github.com/chef-cookbooks/runit

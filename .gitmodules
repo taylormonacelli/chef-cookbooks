@@ -1876,3 +1876,6 @@
 [submodule "jpackage"]
 	path = jpackage
 	url = https://github.com/chef-cookbooks/jpackage
+[submodule "keepalived"]
+	path = keepalived
+	url = https://github.com/chef-cookbooks/keepalived

@@ -1465,3 +1465,6 @@
 [submodule "minitest-chef-handler"]
 	path = minitest-chef-handler
 	url = https://github.com/chef/minitest-chef-handler.git
+[submodule "mixer"]
+	path = mixer
+	url = https://github.com/chef/mixer.git

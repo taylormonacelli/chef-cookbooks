@@ -1780,3 +1780,6 @@
 [submodule "community_cookbook_tools"]
 	path = community_cookbook_tools
 	url = https://github.com/chef-cookbooks/community_cookbook_tools
+[submodule "compat_resource"]
+	path = compat_resource
+	url = https://github.com/chef-cookbooks/compat_resource

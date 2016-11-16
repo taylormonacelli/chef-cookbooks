@@ -1156,3 +1156,6 @@
 [submodule "chef-server-schema"]
 	path = chef-server-schema
 	url = https://github.com/chef/chef-server-schema.git
+[submodule "chef-summit-2014"]
+	path = chef-summit-2014
+	url = https://github.com/chef/chef-summit-2014.git

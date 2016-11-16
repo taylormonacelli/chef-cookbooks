@@ -1438,3 +1438,6 @@
 [submodule "lita-artifactory"]
 	path = lita-artifactory
 	url = https://github.com/chef/lita-artifactory.git
+[submodule "lita-github-team-review"]
+	path = lita-github-team-review
+	url = https://github.com/chef/lita-github-team-review.git

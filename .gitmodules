@@ -1786,3 +1786,6 @@
 [submodule "cookbook-quality-metrics"]
 	path = cookbook-quality-metrics
 	url = https://github.com/chef-cookbooks/cookbook-quality-metrics
+[submodule "deb_pkg_unautostart"]
+	path = deb_pkg_unautostart
+	url = https://github.com/chef-cookbooks/deb_pkg_unautostart

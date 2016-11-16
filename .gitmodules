@@ -1795,3 +1795,6 @@
 [submodule "delivery-cluster"]
 	path = delivery-cluster
 	url = https://github.com/chef-cookbooks/delivery-cluster
+[submodule "delivery-github-demo"]
+	path = delivery-github-demo
+	url = https://github.com/chef-cookbooks/delivery-github-demo

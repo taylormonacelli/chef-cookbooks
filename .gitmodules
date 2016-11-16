@@ -1999,3 +1999,6 @@
 [submodule "trusted_certificate"]
 	path = trusted_certificate
 	url = https://github.com/chef-cookbooks/trusted_certificate
+[submodule "ubuntu"]
+	path = ubuntu
+	url = https://github.com/chef-cookbooks/ubuntu

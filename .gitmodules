@@ -1810,3 +1810,6 @@
 [submodule "delivery-truck-test-cookbook"]
 	path = delivery-truck-test-cookbook
 	url = https://github.com/chef-cookbooks/delivery-truck-test-cookbook
+[submodule "delivery_build"]
+	path = delivery_build
+	url = https://github.com/chef-cookbooks/delivery_build

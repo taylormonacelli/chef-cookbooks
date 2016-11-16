@@ -1237,3 +1237,6 @@
 [submodule "cookstyle"]
 	path = cookstyle
 	url = https://github.com/chef/cookstyle.git
+[submodule "covertool"]
+	path = covertool
+	url = https://github.com/chef/covertool.git

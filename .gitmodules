@@ -1081,3 +1081,6 @@
 [submodule "chef-backend-demo"]
 	path = chef-backend-demo
 	url = https://github.com/chef/chef-backend-demo.git
+[submodule "chef-community-slack-meetings"]
+	path = chef-community-slack-meetings
+	url = https://github.com/chef/chef-community-slack-meetings.git

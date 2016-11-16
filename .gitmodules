@@ -1963,3 +1963,6 @@
 [submodule "sqitch"]
 	path = sqitch
 	url = https://github.com/chef-cookbooks/sqitch
+[submodule "sqlite"]
+	path = sqlite
+	url = https://github.com/chef-cookbooks/sqlite

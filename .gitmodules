@@ -1903,3 +1903,6 @@
 [submodule "nscd"]
 	path = nscd
 	url = https://github.com/chef-cookbooks/nscd
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/chef-cookbooks/ntp

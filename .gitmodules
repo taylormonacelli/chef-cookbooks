@@ -1357,3 +1357,6 @@
 [submodule "ibrowse"]
 	path = ibrowse
 	url = https://github.com/chef/ibrowse.git
+[submodule "inspec"]
+	path = inspec
+	url = https://github.com/chef/inspec.git

@@ -1231,3 +1231,6 @@
 [submodule "config-mirror"]
 	path = config-mirror
 	url = https://github.com/chef/config-mirror.git
+[submodule "cookbook-omnifetch"]
+	path = cookbook-omnifetch
+	url = https://github.com/chef/cookbook-omnifetch.git

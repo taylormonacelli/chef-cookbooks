@@ -1270,3 +1270,6 @@
 [submodule "developer-office-hours"]
 	path = developer-office-hours
 	url = https://github.com/chef/developer-office-hours.git
+[submodule "devops-kungfu"]
+	path = devops-kungfu
+	url = https://github.com/chef/devops-kungfu.git

@@ -1339,3 +1339,6 @@
 [submodule "ffi-yajl"]
 	path = ffi-yajl
 	url = https://github.com/chef/ffi-yajl.git
+[submodule "fixie"]
+	path = fixie
+	url = https://github.com/chef/fixie.git

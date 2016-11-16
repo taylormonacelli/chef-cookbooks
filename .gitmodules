@@ -1879,3 +1879,6 @@
 [submodule "keepalived"]
 	path = keepalived
 	url = https://github.com/chef-cookbooks/keepalived
+[submodule "kickstart"]
+	path = kickstart
+	url = https://github.com/chef-cookbooks/kickstart

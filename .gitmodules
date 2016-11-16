@@ -1825,3 +1825,6 @@
 [submodule "dsc"]
 	path = dsc
 	url = https://github.com/chef-cookbooks/dsc
+[submodule "dsc-test-bootstrap"]
+	path = dsc-test-bootstrap
+	url = https://github.com/chef-cookbooks/dsc-test-bootstrap

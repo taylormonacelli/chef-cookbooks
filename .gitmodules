@@ -1069,3 +1069,6 @@
 [submodule "boxcutter-windows"]
 	path = boxcutter-windows
 	url = https://github.com/chef/boxcutter-windows.git
+[submodule "bundler"]
+	path = bundler
+	url = https://github.com/chef/bundler.git

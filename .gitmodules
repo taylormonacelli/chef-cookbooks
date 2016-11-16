@@ -1546,3 +1546,6 @@
 [submodule "omnibus-chef-server"]
 	path = omnibus-chef-server
 	url = https://github.com/chef/omnibus-chef-server.git
+[submodule "omnibus-chef"]
+	path = omnibus-chef
+	url = https://github.com/chef/omnibus-chef.git

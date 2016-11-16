@@ -1867,3 +1867,6 @@
 [submodule "heartbeat"]
 	path = heartbeat
 	url = https://github.com/chef-cookbooks/heartbeat
+[submodule "hubot"]
+	path = hubot
+	url = https://github.com/chef-cookbooks/hubot

@@ -1318,3 +1318,6 @@
 [submodule "erlware_commons"]
 	path = erlware_commons
 	url = https://github.com/chef/erlware_commons.git
+[submodule "erlzmq2"]
+	path = erlzmq2
+	url = https://github.com/chef/erlzmq2.git

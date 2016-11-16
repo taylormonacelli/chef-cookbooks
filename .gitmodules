@@ -1444,3 +1444,6 @@
 [submodule "lita-pagerduty-oncall"]
 	path = lita-pagerduty-oncall
 	url = https://github.com/chef/lita-pagerduty-oncall.git
+[submodule "lita-pagerduty"]
+	path = lita-pagerduty
+	url = https://github.com/chef/lita-pagerduty.git

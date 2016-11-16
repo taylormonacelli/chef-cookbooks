@@ -1978,3 +1978,6 @@
 [submodule "stompserver"]
 	path = stompserver
 	url = https://github.com/chef-cookbooks/stompserver
+[submodule "subversion"]
+	path = subversion
+	url = https://github.com/chef-cookbooks/subversion

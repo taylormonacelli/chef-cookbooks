@@ -1627,3 +1627,6 @@
 [submodule "qa-chef-server-cluster"]
 	path = qa-chef-server-cluster
 	url = https://github.com/chef/qa-chef-server-cluster.git
+[submodule "quick-reference"]
+	path = quick-reference
+	url = https://github.com/chef/quick-reference.git

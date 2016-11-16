@@ -1405,3 +1405,6 @@
 [submodule "knife-lpar"]
 	path = knife-lpar
 	url = https://github.com/chef/knife-lpar.git
+[submodule "knife-opc"]
+	path = knife-opc
+	url = https://github.com/chef/knife-opc.git

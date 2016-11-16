@@ -1486,3 +1486,6 @@
 [submodule "mixlib-install"]
 	path = mixlib-install
 	url = https://github.com/chef/mixlib-install.git
+[submodule "mixlib-log"]
+	path = mixlib-log
+	url = https://github.com/chef/mixlib-log.git

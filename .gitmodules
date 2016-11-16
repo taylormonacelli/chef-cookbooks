@@ -1993,3 +1993,6 @@
 [submodule "tomcat"]
 	path = tomcat
 	url = https://github.com/chef-cookbooks/tomcat
+[submodule "transmission"]
+	path = transmission
+	url = https://github.com/chef-cookbooks/transmission

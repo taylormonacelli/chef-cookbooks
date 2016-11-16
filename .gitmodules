@@ -1426,3 +1426,6 @@
 [submodule "libarchive-rust"]
 	path = libarchive-rust
 	url = https://github.com/chef/libarchive-rust.git
+[submodule "libarchive3-sys"]
+	path = libarchive3-sys
+	url = https://github.com/chef/libarchive3-sys.git

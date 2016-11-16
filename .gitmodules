@@ -1225,3 +1225,6 @@
 [submodule "community_cookbook_releaser"]
 	path = community_cookbook_releaser
 	url = https://github.com/chef/community_cookbook_releaser.git
+[submodule "concrete"]
+	path = concrete
+	url = https://github.com/chef/concrete.git

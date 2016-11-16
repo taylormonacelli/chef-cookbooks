@@ -1483,3 +1483,6 @@
 [submodule "mixlib-config"]
 	path = mixlib-config
 	url = https://github.com/chef/mixlib-config.git
+[submodule "mixlib-install"]
+	path = mixlib-install
+	url = https://github.com/chef/mixlib-install.git

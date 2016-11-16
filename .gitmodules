@@ -1906,3 +1906,6 @@
 [submodule "ntp"]
 	path = ntp
 	url = https://github.com/chef-cookbooks/ntp
+[submodule "openldap"]
+	path = openldap
+	url = https://github.com/chef-cookbooks/openldap

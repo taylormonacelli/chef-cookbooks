@@ -1885,3 +1885,6 @@
 [submodule "kimchi"]
 	path = kimchi
 	url = https://github.com/chef-cookbooks/kimchi
+[submodule "languages"]
+	path = languages
+	url = https://github.com/chef-cookbooks/languages

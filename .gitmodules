@@ -1618,3 +1618,6 @@
 [submodule "proxy_tests"]
 	path = proxy_tests
 	url = https://github.com/chef/proxy_tests.git
+[submodule "pushy-server-schema"]
+	path = pushy-server-schema
+	url = https://github.com/chef/pushy-server-schema.git

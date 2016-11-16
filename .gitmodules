@@ -1525,3 +1525,6 @@
 [submodule "oc_chef_authz"]
 	path = oc_chef_authz
 	url = https://github.com/chef/oc_chef_authz.git
+[submodule "oc_chef_wm"]
+	path = oc_chef_wm
+	url = https://github.com/chef/oc_chef_wm.git

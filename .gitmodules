@@ -1651,3 +1651,6 @@
 [submodule "rs-chef-api"]
 	path = rs-chef-api
 	url = https://github.com/chef/rs-chef-api.git
+[submodule "rubygems"]
+	path = rubygems
+	url = https://github.com/chef/rubygems.git

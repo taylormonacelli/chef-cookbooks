@@ -1756,3 +1756,6 @@
 [submodule "chef-server-cluster"]
 	path = chef-server-cluster
 	url = https://github.com/chef-cookbooks/chef-server-cluster
+[submodule "chef-yum-docker"]
+	path = chef-yum-docker
+	url = https://github.com/chef-cookbooks/chef-yum-docker

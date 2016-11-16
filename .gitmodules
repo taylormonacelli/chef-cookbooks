@@ -1141,3 +1141,6 @@
 [submodule "chef-reporting"]
 	path = chef-reporting
 	url = https://github.com/chef/chef-reporting.git
+[submodule "chef-rfc"]
+	path = chef-rfc
+	url = https://github.com/chef/chef-rfc.git

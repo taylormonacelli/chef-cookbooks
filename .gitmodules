@@ -1432,3 +1432,6 @@
 [submodule "libyajl2-gem"]
 	path = libyajl2-gem
 	url = https://github.com/chef/libyajl2-gem.git
+[submodule "license_scout"]
+	path = license_scout
+	url = https://github.com/chef/license_scout.git

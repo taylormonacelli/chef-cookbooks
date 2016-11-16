@@ -1159,3 +1159,6 @@
 [submodule "chef-summit-2014"]
 	path = chef-summit-2014
 	url = https://github.com/chef/chef-summit-2014.git
+[submodule "chef-triage-app"]
+	path = chef-triage-app
+	url = https://github.com/chef/chef-triage-app.git

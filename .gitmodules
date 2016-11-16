@@ -1828,3 +1828,6 @@
 [submodule "dsc-test-bootstrap"]
 	path = dsc-test-bootstrap
 	url = https://github.com/chef-cookbooks/dsc-test-bootstrap
+[submodule "dynect"]
+	path = dynect
+	url = https://github.com/chef-cookbooks/dynect

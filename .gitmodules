@@ -1351,3 +1351,6 @@
 [submodule "habitat-example-plans"]
 	path = habitat-example-plans
 	url = https://github.com/chef/habitat-example-plans.git
+[submodule "hanlon-api-ruby"]
+	path = hanlon-api-ruby
+	url = https://github.com/chef/hanlon-api-ruby.git

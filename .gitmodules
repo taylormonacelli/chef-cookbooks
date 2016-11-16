@@ -1030,3 +1030,6 @@
 [submodule "Emysql"]
 	path = Emysql
 	url = https://github.com/chef/Emysql.git
+[submodule "LicenseFinder"]
+	path = LicenseFinder
+	url = https://github.com/chef/LicenseFinder.git

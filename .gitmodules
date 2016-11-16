@@ -2005,3 +2005,6 @@
 [submodule "ufw"]
 	path = ufw
 	url = https://github.com/chef-cookbooks/ufw
+[submodule "unicorn"]
+	path = unicorn
+	url = https://github.com/chef-cookbooks/unicorn

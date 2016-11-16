@@ -1768,3 +1768,6 @@
 [submodule "chef_slack"]
 	path = chef_slack
 	url = https://github.com/chef-cookbooks/chef_slack
+[submodule "cis-el7-l1-hardening"]
+	path = cis-el7-l1-hardening
+	url = https://github.com/chef-cookbooks/cis-el7-l1-hardening

@@ -1726,3 +1726,6 @@
 [submodule "audit"]
 	path = audit
 	url = https://github.com/chef-cookbooks/audit
+[submodule "audit-cis"]
+	path = audit-cis
+	url = https://github.com/chef-cookbooks/audit-cis

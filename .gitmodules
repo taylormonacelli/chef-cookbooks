@@ -1294,3 +1294,6 @@
 [submodule "epgsql"]
 	path = epgsql
 	url = https://github.com/chef/epgsql.git
+[submodule "erchef"]
+	path = erchef
+	url = https://github.com/chef/erchef.git

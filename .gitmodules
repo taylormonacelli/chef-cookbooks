@@ -1036,3 +1036,6 @@
 [submodule "analytics-splunk-app"]
 	path = analytics-splunk-app
 	url = https://github.com/chef/analytics-splunk-app.git
+[submodule "analytics-webhook-server"]
+	path = analytics-webhook-server
+	url = https://github.com/chef/analytics-webhook-server.git

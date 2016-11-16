@@ -1891,3 +1891,6 @@
 [submodule "libuuid-user"]
 	path = libuuid-user
 	url = https://github.com/chef-cookbooks/libuuid-user
+[submodule "mysql_chef_gem"]
+	path = mysql_chef_gem
+	url = https://github.com/chef-cookbooks/mysql_chef_gem

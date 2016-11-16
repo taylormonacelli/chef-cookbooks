@@ -1600,3 +1600,6 @@
 [submodule "opscoderl_folsom"]
 	path = opscoderl_folsom
 	url = https://github.com/chef/opscoderl_folsom.git
+[submodule "opscoderl_httpc"]
+	path = opscoderl_httpc
+	url = https://github.com/chef/opscoderl_httpc.git

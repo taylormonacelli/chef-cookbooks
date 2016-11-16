@@ -1531,3 +1531,6 @@
 [submodule "oc_erchef"]
 	path = oc_erchef
 	url = https://github.com/chef/oc_erchef.git
+[submodule "ohai-verifier"]
+	path = ohai-verifier
+	url = https://github.com/chef/ohai-verifier.git

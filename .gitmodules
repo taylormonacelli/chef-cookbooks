@@ -1504,3 +1504,6 @@
 [submodule "msys-bash"]
 	path = msys-bash
 	url = https://github.com/chef/msys-bash.git
+[submodule "net-ssh-multi"]
+	path = net-ssh-multi
+	url = https://github.com/chef/net-ssh-multi.git

@@ -1126,3 +1126,6 @@
 [submodule "chef-provisioning-lxc"]
 	path = chef-provisioning-lxc
 	url = https://github.com/chef/chef-provisioning-lxc.git
+[submodule "chef-provisioning-ssh"]
+	path = chef-provisioning-ssh
+	url = https://github.com/chef/chef-provisioning-ssh.git

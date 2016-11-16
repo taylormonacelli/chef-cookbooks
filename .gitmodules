@@ -1858,3 +1858,6 @@
 [submodule "gunicorn"]
 	path = gunicorn
 	url = https://github.com/chef-cookbooks/gunicorn
+[submodule "habitat"]
+	path = habitat
+	url = https://github.com/chef-cookbooks/habitat

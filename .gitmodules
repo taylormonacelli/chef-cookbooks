@@ -1513,3 +1513,6 @@
 [submodule "oauth-ng"]
 	path = oauth-ng
 	url = https://github.com/chef/oauth-ng.git
+[submodule "oc-chef-pedant"]
+	path = oc-chef-pedant
+	url = https://github.com/chef/oc-chef-pedant.git

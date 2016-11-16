@@ -1522,3 +1522,6 @@
 [submodule "oc_bifrost"]
 	path = oc_bifrost
 	url = https://github.com/chef/oc_bifrost.git
+[submodule "oc_chef_authz"]
+	path = oc_chef_authz
+	url = https://github.com/chef/oc_chef_authz.git

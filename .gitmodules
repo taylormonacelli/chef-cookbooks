@@ -1441,3 +1441,6 @@
 [submodule "lita-github-team-review"]
 	path = lita-github-team-review
 	url = https://github.com/chef/lita-github-team-review.git
+[submodule "lita-pagerduty-oncall"]
+	path = lita-pagerduty-oncall
+	url = https://github.com/chef/lita-pagerduty-oncall.git

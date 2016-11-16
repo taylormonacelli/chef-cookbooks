@@ -1057,3 +1057,6 @@
 [submodule "aws-s3"]
 	path = aws-s3
 	url = https://github.com/chef/aws-s3.git
+[submodule "bear"]
+	path = bear
+	url = https://github.com/chef/bear.git

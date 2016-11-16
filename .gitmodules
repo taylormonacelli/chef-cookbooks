@@ -1336,3 +1336,6 @@
 [submodule "fastmsi-custom-action"]
 	path = fastmsi-custom-action
 	url = https://github.com/chef/fastmsi-custom-action.git
+[submodule "ffi-yajl"]
+	path = ffi-yajl
+	url = https://github.com/chef/ffi-yajl.git

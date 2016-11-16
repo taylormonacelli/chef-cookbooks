@@ -1360,3 +1360,6 @@
 [submodule "inspec"]
 	path = inspec
 	url = https://github.com/chef/inspec.git
+[submodule "irc_log_archives"]
+	path = irc_log_archives
+	url = https://github.com/chef/irc_log_archives.git

@@ -1696,3 +1696,6 @@
 [submodule "windows-openssl-build"]
 	path = windows-openssl-build
 	url = https://github.com/chef/windows-openssl-build.git
+[submodule "winrm-s"]
+	path = winrm-s
+	url = https://github.com/chef/winrm-s.git

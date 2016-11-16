@@ -1921,3 +1921,6 @@
 [submodule "passenger_apache2"]
 	path = passenger_apache2
 	url = https://github.com/chef-cookbooks/passenger_apache2
+[submodule "pcb"]
+	path = pcb
+	url = https://github.com/chef-cookbooks/pcb

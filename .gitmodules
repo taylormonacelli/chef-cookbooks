@@ -1246,3 +1246,6 @@
 [submodule "dco_examples"]
 	path = dco_examples
 	url = https://github.com/chef/dco_examples.git
+[submodule "dcob"]
+	path = dcob
+	url = https://github.com/chef/dcob.git

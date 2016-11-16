@@ -1570,3 +1570,6 @@
 [submodule "omnibus"]
 	path = omnibus
 	url = https://github.com/chef/omnibus.git
+[submodule "omnitruck"]
+	path = omnitruck
+	url = https://github.com/chef/omnitruck.git

@@ -1117,3 +1117,6 @@
 [submodule "chef-provisioning-fog"]
 	path = chef-provisioning-fog
 	url = https://github.com/chef/chef-provisioning-fog.git
+[submodule "chef-provisioning-google"]
+	path = chef-provisioning-google
+	url = https://github.com/chef/chef-provisioning-google.git

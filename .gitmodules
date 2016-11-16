@@ -1186,3 +1186,6 @@
 [submodule "chef_db"]
 	path = chef_db
 	url = https://github.com/chef/chef_db.git
+[submodule "chef_index"]
+	path = chef_index
+	url = https://github.com/chef/chef_index.git

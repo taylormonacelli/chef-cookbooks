@@ -1909,3 +1909,6 @@
 [submodule "openldap"]
 	path = openldap
 	url = https://github.com/chef-cookbooks/openldap
+[submodule "opsworks-linux-demo-cookbook-django"]
+	path = opsworks-linux-demo-cookbook-django
+	url = https://github.com/chef-cookbooks/opsworks-linux-demo-cookbook-django

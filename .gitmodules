@@ -1969,3 +1969,6 @@
 [submodule "squid"]
 	path = squid
 	url = https://github.com/chef-cookbooks/squid
+[submodule "ssh_known_hosts"]
+	path = ssh_known_hosts
+	url = https://github.com/chef-cookbooks/ssh_known_hosts

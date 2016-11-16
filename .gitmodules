@@ -1957,3 +1957,6 @@
 [submodule "runit"]
 	path = runit
 	url = https://github.com/chef-cookbooks/runit
+[submodule "smokeping"]
+	path = smokeping
+	url = https://github.com/chef-cookbooks/smokeping

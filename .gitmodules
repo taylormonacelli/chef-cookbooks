@@ -1552,3 +1552,6 @@
 [submodule "omnibus-ctl"]
 	path = omnibus-ctl
 	url = https://github.com/chef/omnibus-ctl.git
+[submodule "omnibus-harmony"]
+	path = omnibus-harmony
+	url = https://github.com/chef/omnibus-harmony.git

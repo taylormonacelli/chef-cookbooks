@@ -1276,3 +1276,6 @@
 [submodule "devops-transformation-workshop"]
 	path = devops-transformation-workshop
 	url = https://github.com/chef/devops-transformation-workshop.git
+[submodule "dotscaleworkshop"]
+	path = dotscaleworkshop
+	url = https://github.com/chef/dotscaleworkshop.git

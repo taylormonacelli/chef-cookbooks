@@ -1702,3 +1702,6 @@
 [submodule "wmi-lite"]
 	path = wmi-lite
 	url = https://github.com/chef/wmi-lite.git
+[submodule "wordpress-tribe-events-api-plugin"]
+	path = wordpress-tribe-events-api-plugin
+	url = https://github.com/chef/wordpress-tribe-events-api-plugin.git

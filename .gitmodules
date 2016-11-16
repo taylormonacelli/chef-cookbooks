@@ -1216,3 +1216,6 @@
 [submodule "chefstyle"]
 	path = chefstyle
 	url = https://github.com/chef/chefstyle.git
+[submodule "codeclimate-foodcritic"]
+	path = codeclimate-foodcritic
+	url = https://github.com/chef/codeclimate-foodcritic.git

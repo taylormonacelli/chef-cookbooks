@@ -1840,3 +1840,6 @@
 [submodule "fastly"]
 	path = fastly
 	url = https://github.com/chef-cookbooks/fastly
+[submodule "fieri"]
+	path = fieri
+	url = https://github.com/chef-cookbooks/fieri

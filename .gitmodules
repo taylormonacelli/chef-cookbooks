@@ -1084,3 +1084,6 @@
 [submodule "chef-community-slack-meetings"]
 	path = chef-community-slack-meetings
 	url = https://github.com/chef/chef-community-slack-meetings.git
+[submodule "chef-dk"]
+	path = chef-dk
+	url = https://github.com/chef/chef-dk.git

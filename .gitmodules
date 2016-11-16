@@ -1243,3 +1243,6 @@
 [submodule "cowboy"]
 	path = cowboy
 	url = https://github.com/chef/cowboy.git
+[submodule "dco_examples"]
+	path = dco_examples
+	url = https://github.com/chef/dco_examples.git

@@ -1147,3 +1147,6 @@
 [submodule "chef-server-bootstrap"]
 	path = chef-server-bootstrap
 	url = https://github.com/chef/chef-server-bootstrap.git
+[submodule "chef-server-cloudformation-templates"]
+	path = chef-server-cloudformation-templates
+	url = https://github.com/chef/chef-server-cloudformation-templates.git

@@ -1747,3 +1747,6 @@
 [submodule "chef-grafana"]
 	path = chef-grafana
 	url = https://github.com/chef-cookbooks/chef-grafana
+[submodule "chef-ingredient"]
+	path = chef-ingredient
+	url = https://github.com/chef-cookbooks/chef-ingredient

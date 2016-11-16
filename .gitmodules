@@ -2029,3 +2029,6 @@
 [submodule "yum-percona"]
 	path = yum-percona
 	url = https://github.com/chef-cookbooks/yum-percona
+[submodule "yum-remi-chef"]
+	path = yum-remi-chef
+	url = https://github.com/chef-cookbooks/yum-remi-chef

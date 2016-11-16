@@ -1222,3 +1222,6 @@
 [submodule "community-summits"]
 	path = community-summits
 	url = https://github.com/chef/community-summits.git
+[submodule "community_cookbook_releaser"]
+	path = community_cookbook_releaser
+	url = https://github.com/chef/community_cookbook_releaser.git

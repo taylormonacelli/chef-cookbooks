@@ -1123,3 +1123,6 @@
 [submodule "chef-provisioning-hanlon"]
 	path = chef-provisioning-hanlon
 	url = https://github.com/chef/chef-provisioning-hanlon.git
+[submodule "chef-provisioning-lxc"]
+	path = chef-provisioning-lxc
+	url = https://github.com/chef/chef-provisioning-lxc.git

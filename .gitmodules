@@ -1576,3 +1576,6 @@
 [submodule "opscode-darklaunch-erlang"]
 	path = opscode-darklaunch-erlang
 	url = https://github.com/chef/opscode-darklaunch-erlang.git
+[submodule "opscode-expander"]
+	path = opscode-expander
+	url = https://github.com/chef/opscode-expander.git

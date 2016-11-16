@@ -1678,3 +1678,6 @@
 [submodule "supermarket"]
 	path = supermarket
 	url = https://github.com/chef/supermarket.git
+[submodule "tf_chef_delivery_build_node"]
+	path = tf_chef_delivery_build_node
+	url = https://github.com/chef/tf_chef_delivery_build_node.git

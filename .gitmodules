@@ -1933,3 +1933,6 @@
 [submodule "postfix"]
 	path = postfix
 	url = https://github.com/chef-cookbooks/postfix
+[submodule "push-jobs"]
+	path = push-jobs
+	url = https://github.com/chef-cookbooks/push-jobs

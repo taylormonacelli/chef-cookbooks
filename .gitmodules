@@ -1741,3 +1741,6 @@
 [submodule "chef-analytics"]
 	path = chef-analytics
 	url = https://github.com/chef-cookbooks/chef-analytics
+[submodule "chef-apt-docker"]
+	path = chef-apt-docker
+	url = https://github.com/chef-cookbooks/chef-apt-docker

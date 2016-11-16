@@ -1228,3 +1228,6 @@
 [submodule "concrete"]
 	path = concrete
 	url = https://github.com/chef/concrete.git
+[submodule "config-mirror"]
+	path = config-mirror
+	url = https://github.com/chef/config-mirror.git

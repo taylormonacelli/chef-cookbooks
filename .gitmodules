@@ -1927,3 +1927,6 @@
 [submodule "perl"]
 	path = perl
 	url = https://github.com/chef-cookbooks/perl
+[submodule "pkgutil"]
+	path = pkgutil
+	url = https://github.com/chef-cookbooks/pkgutil

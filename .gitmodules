@@ -1369,3 +1369,6 @@
 [submodule "jiffy"]
 	path = jiffy
 	url = https://github.com/chef/jiffy.git
+[submodule "kitchen-appbundle-updater"]
+	path = kitchen-appbundle-updater
+	url = https://github.com/chef/kitchen-appbundle-updater.git

@@ -1183,3 +1183,6 @@
 [submodule "chef_certgen"]
 	path = chef_certgen
 	url = https://github.com/chef/chef_certgen.git
+[submodule "chef_db"]
+	path = chef_db
+	url = https://github.com/chef/chef_db.git

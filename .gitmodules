@@ -1951,3 +1951,6 @@
 [submodule "rsyslog"]
 	path = rsyslog
 	url = https://github.com/chef-cookbooks/rsyslog
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/chef-cookbooks/ruby

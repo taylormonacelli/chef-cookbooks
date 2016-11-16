@@ -1144,3 +1144,6 @@
 [submodule "chef-rfc"]
 	path = chef-rfc
 	url = https://github.com/chef/chef-rfc.git
+[submodule "chef-server-bootstrap"]
+	path = chef-server-bootstrap
+	url = https://github.com/chef/chef-server-bootstrap.git

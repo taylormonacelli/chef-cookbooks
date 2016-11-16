@@ -1162,3 +1162,6 @@
 [submodule "chef-triage-app"]
 	path = chef-triage-app
 	url = https://github.com/chef/chef-triage-app.git
+[submodule "chef-vault-testfixtures"]
+	path = chef-vault-testfixtures
+	url = https://github.com/chef/chef-vault-testfixtures.git

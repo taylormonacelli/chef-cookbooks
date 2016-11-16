@@ -1066,3 +1066,6 @@
 [submodule "bookshelf"]
 	path = bookshelf
 	url = https://github.com/chef/bookshelf.git
+[submodule "boxcutter-windows"]
+	path = boxcutter-windows
+	url = https://github.com/chef/boxcutter-windows.git

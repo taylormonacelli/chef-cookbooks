@@ -1045,3 +1045,6 @@
 [submodule "appbundle-updater"]
 	path = appbundle-updater
 	url = https://github.com/chef/appbundle-updater.git
+[submodule "appbundler"]
+	path = appbundler
+	url = https://github.com/chef/appbundler.git

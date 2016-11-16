@@ -1342,3 +1342,6 @@
 [submodule "fixie"]
 	path = fixie
 	url = https://github.com/chef/fixie.git
+[submodule "folsom"]
+	path = folsom
+	url = https://github.com/chef/folsom.git

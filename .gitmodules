@@ -1621,3 +1621,6 @@
 [submodule "pushy-server-schema"]
 	path = pushy-server-schema
 	url = https://github.com/chef/pushy-server-schema.git
+[submodule "pushy_common"]
+	path = pushy_common
+	url = https://github.com/chef/pushy_common.git

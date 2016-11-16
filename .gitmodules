@@ -1060,3 +1060,6 @@
 [submodule "bear"]
 	path = bear
 	url = https://github.com/chef/bear.git
+[submodule "bento"]
+	path = bento
+	url = https://github.com/chef/bento.git

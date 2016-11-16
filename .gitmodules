@@ -1864,3 +1864,6 @@
 [submodule "habitat-build"]
 	path = habitat-build
 	url = https://github.com/chef-cookbooks/habitat-build
+[submodule "heartbeat"]
+	path = heartbeat
+	url = https://github.com/chef-cookbooks/heartbeat

@@ -1672,3 +1672,6 @@
 [submodule "starter-srpid"]
 	path = starter-srpid
 	url = https://github.com/chef/starter-srpid.git
+[submodule "stats_hero"]
+	path = stats_hero
+	url = https://github.com/chef/stats_hero.git

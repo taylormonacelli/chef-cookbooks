@@ -1636,3 +1636,6 @@
 [submodule "railsconf2015-chef"]
 	path = railsconf2015-chef
 	url = https://github.com/chef/railsconf2015-chef.git
+[submodule "rbzmq"]
+	path = rbzmq
+	url = https://github.com/chef/rbzmq.git

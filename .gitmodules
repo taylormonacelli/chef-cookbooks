@@ -1663,3 +1663,6 @@
 [submodule "simple-web"]
 	path = simple-web
 	url = https://github.com/chef/simple-web.git
+[submodule "slackin"]
+	path = slackin
+	url = https://github.com/chef/slackin.git

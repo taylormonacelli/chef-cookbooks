@@ -1420,3 +1420,6 @@
 [submodule "knife-reporting"]
 	path = knife-reporting
 	url = https://github.com/chef/knife-reporting.git
+[submodule "knife-windows"]
+	path = knife-windows
+	url = https://github.com/chef/knife-windows.git

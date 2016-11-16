@@ -1585,3 +1585,6 @@
 [submodule "opscode-pushy-client"]
 	path = opscode-pushy-client
 	url = https://github.com/chef/opscode-pushy-client.git
+[submodule "opscode-pushy-server"]
+	path = opscode-pushy-server
+	url = https://github.com/chef/opscode-pushy-server.git

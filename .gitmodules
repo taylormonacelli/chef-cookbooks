@@ -1630,3 +1630,6 @@
 [submodule "quick-reference"]
 	path = quick-reference
 	url = https://github.com/chef/quick-reference.git
+[submodule "rabbit_common"]
+	path = rabbit_common
+	url = https://github.com/chef/rabbit_common.git

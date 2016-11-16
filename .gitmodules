@@ -1744,3 +1744,6 @@
 [submodule "chef-apt-docker"]
 	path = chef-apt-docker
 	url = https://github.com/chef-cookbooks/chef-apt-docker
+[submodule "chef-grafana"]
+	path = chef-grafana
+	url = https://github.com/chef-cookbooks/chef-grafana

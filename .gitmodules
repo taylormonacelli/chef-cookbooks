@@ -1039,3 +1039,6 @@
 [submodule "analytics-webhook-server"]
 	path = analytics-webhook-server
 	url = https://github.com/chef/analytics-webhook-server.git
+[submodule "angular2-feature-flags"]
+	path = angular2-feature-flags
+	url = https://github.com/chef/angular2-feature-flags.git

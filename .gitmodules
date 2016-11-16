@@ -1831,3 +1831,6 @@
 [submodule "dynect"]
 	path = dynect
 	url = https://github.com/chef-cookbooks/dynect
+[submodule "enterprise-chef-common"]
+	path = enterprise-chef-common
+	url = https://github.com/chef-cookbooks/enterprise-chef-common

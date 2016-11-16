@@ -1843,3 +1843,6 @@
 [submodule "fieri"]
 	path = fieri
 	url = https://github.com/chef-cookbooks/fieri
+[submodule "freebsd"]
+	path = freebsd
+	url = https://github.com/chef-cookbooks/freebsd

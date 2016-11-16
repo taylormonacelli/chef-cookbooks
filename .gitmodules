@@ -1378,3 +1378,6 @@
 [submodule "knife-acl"]
 	path = knife-acl
 	url = https://github.com/chef/knife-acl.git
+[submodule "knife-analytics"]
+	path = knife-analytics
+	url = https://github.com/chef/knife-analytics.git

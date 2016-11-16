@@ -1345,3 +1345,6 @@
 [submodule "folsom"]
 	path = folsom
 	url = https://github.com/chef/folsom.git
+[submodule "folsom_graphite"]
+	path = folsom_graphite
+	url = https://github.com/chef/folsom_graphite.git

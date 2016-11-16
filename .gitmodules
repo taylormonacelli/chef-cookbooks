@@ -1447,3 +1447,6 @@
 [submodule "lita-pagerduty"]
 	path = lita-pagerduty
 	url = https://github.com/chef/lita-pagerduty.git
+[submodule "lita-test"]
+	path = lita-test
+	url = https://github.com/chef/lita-test.git

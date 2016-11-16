@@ -1153,3 +1153,6 @@
 [submodule "chef-server-data-generator"]
 	path = chef-server-data-generator
 	url = https://github.com/chef/chef-server-data-generator.git
+[submodule "chef-server-schema"]
+	path = chef-server-schema
+	url = https://github.com/chef/chef-server-schema.git

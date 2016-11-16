@@ -1699,3 +1699,6 @@
 [submodule "winrm-s"]
 	path = winrm-s
 	url = https://github.com/chef/winrm-s.git
+[submodule "wmi-lite"]
+	path = wmi-lite
+	url = https://github.com/chef/wmi-lite.git

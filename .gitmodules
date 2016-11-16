@@ -1684,3 +1684,6 @@
 [submodule "tf_delivery_cluster"]
 	path = tf_delivery_cluster
 	url = https://github.com/chef/tf_delivery_cluster.git
+[submodule "train"]
+	path = train
+	url = https://github.com/chef/train.git

@@ -2023,3 +2023,6 @@
 [submodule "yum-amazon"]
 	path = yum-amazon
 	url = https://github.com/chef-cookbooks/yum-amazon
+[submodule "yum-atrpms"]
+	path = yum-atrpms
+	url = https://github.com/chef-cookbooks/yum-atrpms

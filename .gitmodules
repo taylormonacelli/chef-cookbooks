@@ -1072,3 +1072,6 @@
 [submodule "bundler"]
 	path = bundler
 	url = https://github.com/chef/bundler.git
+[submodule "chef-acceptance"]
+	path = chef-acceptance
+	url = https://github.com/chef/chef-acceptance.git

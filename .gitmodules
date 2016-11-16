@@ -1639,3 +1639,6 @@
 [submodule "rbzmq"]
 	path = rbzmq
 	url = https://github.com/chef/rbzmq.git
+[submodule "rebar"]
+	path = rebar
+	url = https://github.com/chef/rebar.git

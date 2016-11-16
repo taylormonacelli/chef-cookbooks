@@ -1918,3 +1918,6 @@
 [submodule "partial_search"]
 	path = partial_search
 	url = https://github.com/chef-cookbooks/partial_search
+[submodule "passenger_apache2"]
+	path = passenger_apache2
+	url = https://github.com/chef-cookbooks/passenger_apache2

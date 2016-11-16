@@ -1150,3 +1150,6 @@
 [submodule "chef-server-cloudformation-templates"]
 	path = chef-server-cloudformation-templates
 	url = https://github.com/chef/chef-server-cloudformation-templates.git
+[submodule "chef-server-data-generator"]
+	path = chef-server-data-generator
+	url = https://github.com/chef/chef-server-data-generator.git

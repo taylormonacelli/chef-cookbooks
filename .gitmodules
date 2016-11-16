@@ -1528,3 +1528,6 @@
 [submodule "oc_chef_wm"]
 	path = oc_chef_wm
 	url = https://github.com/chef/oc_chef_wm.git
+[submodule "oc_erchef"]
+	path = oc_erchef
+	url = https://github.com/chef/oc_erchef.git

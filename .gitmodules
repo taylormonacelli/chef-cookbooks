@@ -1897,3 +1897,6 @@
 [submodule "nopcommerce"]
 	path = nopcommerce
 	url = https://github.com/chef-cookbooks/nopcommerce
+[submodule "now"]
+	path = now
+	url = https://github.com/chef-cookbooks/now

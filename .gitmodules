@@ -1801,3 +1801,6 @@
 [submodule "delivery-sugar"]
 	path = delivery-sugar
 	url = https://github.com/chef-cookbooks/delivery-sugar
+[submodule "delivery-sugar-extras"]
+	path = delivery-sugar-extras
+	url = https://github.com/chef-cookbooks/delivery-sugar-extras

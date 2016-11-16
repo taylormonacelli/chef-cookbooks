@@ -1975,3 +1975,6 @@
 [submodule "sssd_ldap"]
 	path = sssd_ldap
 	url = https://github.com/chef-cookbooks/sssd_ldap
+[submodule "stompserver"]
+	path = stompserver
+	url = https://github.com/chef-cookbooks/stompserver

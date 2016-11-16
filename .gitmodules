@@ -1666,3 +1666,6 @@
 [submodule "slackin"]
 	path = slackin
 	url = https://github.com/chef/slackin.git
+[submodule "sqerl"]
+	path = sqerl
+	url = https://github.com/chef/sqerl.git

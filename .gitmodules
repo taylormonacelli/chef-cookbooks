@@ -1297,3 +1297,6 @@
 [submodule "erchef"]
 	path = erchef
 	url = https://github.com/chef/erchef.git
+[submodule "eredis"]
+	path = eredis
+	url = https://github.com/chef/eredis.git

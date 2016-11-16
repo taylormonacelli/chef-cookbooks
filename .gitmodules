@@ -1732,3 +1732,6 @@
 [submodule "auditd"]
 	path = auditd
 	url = https://github.com/chef-cookbooks/auditd
+[submodule "awscreds"]
+	path = awscreds
+	url = https://github.com/chef-cookbooks/awscreds

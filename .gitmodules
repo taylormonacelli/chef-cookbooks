@@ -1201,3 +1201,6 @@
 [submodule "chef_req"]
 	path = chef_req
 	url = https://github.com/chef/chef_req.git
+[submodule "chef_ruby_project"]
+	path = chef_ruby_project
+	url = https://github.com/chef/chef_ruby_project.git

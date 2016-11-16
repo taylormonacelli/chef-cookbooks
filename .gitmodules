@@ -1597,3 +1597,6 @@
 [submodule "opscode-summit-2013"]
 	path = opscode-summit-2013
 	url = https://github.com/chef/opscode-summit-2013.git
+[submodule "opscoderl_folsom"]
+	path = opscoderl_folsom
+	url = https://github.com/chef/opscoderl_folsom.git

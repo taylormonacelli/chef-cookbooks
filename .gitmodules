@@ -1042,3 +1042,6 @@
 [submodule "angular2-feature-flags"]
 	path = angular2-feature-flags
 	url = https://github.com/chef/angular2-feature-flags.git
+[submodule "appbundle-updater"]
+	path = appbundle-updater
+	url = https://github.com/chef/appbundle-updater.git

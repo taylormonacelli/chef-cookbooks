@@ -1096,3 +1096,6 @@
 [submodule "chef-oss-repo-template"]
 	path = chef-oss-repo-template
 	url = https://github.com/chef/chef-oss-repo-template.git
+[submodule "chef-pr-freq"]
+	path = chef-pr-freq
+	url = https://github.com/chef/chef-pr-freq.git

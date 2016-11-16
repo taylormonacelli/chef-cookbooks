@@ -1519,3 +1519,6 @@
 [submodule "oc-id"]
 	path = oc-id
 	url = https://github.com/chef/oc-id.git
+[submodule "oc_bifrost"]
+	path = oc_bifrost
+	url = https://github.com/chef/oc_bifrost.git

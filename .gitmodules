@@ -1852,3 +1852,6 @@
 [submodule "gems"]
 	path = gems
 	url = https://github.com/chef-cookbooks/gems
+[submodule "git"]
+	path = git
+	url = https://github.com/chef-cookbooks/git

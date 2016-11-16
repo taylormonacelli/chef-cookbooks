@@ -1132,3 +1132,6 @@
 [submodule "chef-provisioning-vagrant"]
 	path = chef-provisioning-vagrant
 	url = https://github.com/chef/chef-provisioning-vagrant.git
+[submodule "chef-provisioning"]
+	path = chef-provisioning
+	url = https://github.com/chef/chef-provisioning.git

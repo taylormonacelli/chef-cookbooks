@@ -1192,3 +1192,6 @@
 [submodule "chef_objects"]
 	path = chef_objects
 	url = https://github.com/chef/chef_objects.git
+[submodule "chef_pgtap"]
+	path = chef_pgtap
+	url = https://github.com/chef/chef_pgtap.git

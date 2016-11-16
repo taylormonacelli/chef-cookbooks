@@ -1762,3 +1762,6 @@
 [submodule "chef_hostname"]
 	path = chef_hostname
 	url = https://github.com/chef-cookbooks/chef_hostname
+[submodule "chef_server_image"]
+	path = chef_server_image
+	url = https://github.com/chef-cookbooks/chef_server_image

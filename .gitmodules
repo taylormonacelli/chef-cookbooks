@@ -1936,3 +1936,6 @@
 [submodule "push-jobs"]
 	path = push-jobs
 	url = https://github.com/chef-cookbooks/push-jobs
+[submodule "resolver"]
+	path = resolver
+	url = https://github.com/chef-cookbooks/resolver

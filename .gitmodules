@@ -1594,3 +1594,6 @@
 [submodule "opscode-rebar-templates"]
 	path = opscode-rebar-templates
 	url = https://github.com/chef/opscode-rebar-templates.git
+[submodule "opscode-summit-2013"]
+	path = opscode-summit-2013
+	url = https://github.com/chef/opscode-summit-2013.git

@@ -2002,3 +2002,6 @@
 [submodule "ubuntu"]
 	path = ubuntu
 	url = https://github.com/chef-cookbooks/ubuntu
+[submodule "ufw"]
+	path = ufw
+	url = https://github.com/chef-cookbooks/ufw

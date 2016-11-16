@@ -1303,3 +1303,6 @@
 [submodule "erlang-bcrypt"]
 	path = erlang-bcrypt
 	url = https://github.com/chef/erlang-bcrypt.git
+[submodule "erlang-hmac-sha"]
+	path = erlang-hmac-sha
+	url = https://github.com/chef/erlang-hmac-sha.git

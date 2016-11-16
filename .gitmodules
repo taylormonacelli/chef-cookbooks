@@ -1453,3 +1453,6 @@
 [submodule "lita_versioner"]
 	path = lita_versioner
 	url = https://github.com/chef/lita_versioner.git
+[submodule "load-grunt-config"]
+	path = load-grunt-config
+	url = https://github.com/chef/load-grunt-config.git

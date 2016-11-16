@@ -1516,3 +1516,6 @@
 [submodule "oc-chef-pedant"]
 	path = oc-chef-pedant
 	url = https://github.com/chef/oc-chef-pedant.git
+[submodule "oc-id"]
+	path = oc-id
+	url = https://github.com/chef/oc-id.git

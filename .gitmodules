@@ -2011,3 +2011,6 @@
 [submodule "users"]
 	path = users
 	url = https://github.com/chef-cookbooks/users
+[submodule "vim"]
+	path = vim
+	url = https://github.com/chef-cookbooks/vim

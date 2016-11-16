@@ -1267,3 +1267,6 @@
 [submodule "devchef"]
 	path = devchef
 	url = https://github.com/chef/devchef.git
+[submodule "developer-office-hours"]
+	path = developer-office-hours
+	url = https://github.com/chef/developer-office-hours.git

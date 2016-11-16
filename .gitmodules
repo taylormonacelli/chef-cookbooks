@@ -1723,3 +1723,6 @@
 [submodule "apt"]
 	path = apt
 	url = https://github.com/chef-cookbooks/apt
+[submodule "audit"]
+	path = audit
+	url = https://github.com/chef-cookbooks/audit

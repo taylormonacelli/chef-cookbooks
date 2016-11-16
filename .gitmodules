@@ -1807,3 +1807,6 @@
 [submodule "delivery-truck"]
 	path = delivery-truck
 	url = https://github.com/chef-cookbooks/delivery-truck
+[submodule "delivery-truck-test-cookbook"]
+	path = delivery-truck-test-cookbook
+	url = https://github.com/chef-cookbooks/delivery-truck-test-cookbook

@@ -1273,3 +1273,6 @@
 [submodule "devops-kungfu"]
 	path = devops-kungfu
 	url = https://github.com/chef/devops-kungfu.git
+[submodule "devops-transformation-workshop"]
+	path = devops-transformation-workshop
+	url = https://github.com/chef/devops-transformation-workshop.git

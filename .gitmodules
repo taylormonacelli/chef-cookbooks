@@ -1258,3 +1258,6 @@
 [submodule "dep-selector-libgecode"]
 	path = dep-selector-libgecode
 	url = https://github.com/chef/dep-selector-libgecode.git
+[submodule "dep-selector"]
+	path = dep-selector
+	url = https://github.com/chef/dep-selector.git

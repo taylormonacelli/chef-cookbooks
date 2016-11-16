@@ -1615,3 +1615,6 @@
 [submodule "prism"]
 	path = prism
 	url = https://github.com/chef/prism.git
+[submodule "proxy_tests"]
+	path = proxy_tests
+	url = https://github.com/chef/proxy_tests.git

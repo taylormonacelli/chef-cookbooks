@@ -1579,3 +1579,6 @@
 [submodule "opscode-expander"]
 	path = opscode-expander
 	url = https://github.com/chef/opscode-expander.git
+[submodule "opscode-omnibus"]
+	path = opscode-omnibus
+	url = https://github.com/chef/opscode-omnibus.git

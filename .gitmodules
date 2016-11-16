@@ -1354,3 +1354,6 @@
 [submodule "hanlon-api-ruby"]
 	path = hanlon-api-ruby
 	url = https://github.com/chef/hanlon-api-ruby.git
+[submodule "ibrowse"]
+	path = ibrowse
+	url = https://github.com/chef/ibrowse.git

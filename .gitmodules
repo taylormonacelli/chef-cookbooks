@@ -1645,3 +1645,6 @@
 [submodule "relx"]
 	path = relx
 	url = https://github.com/chef/relx.git
+[submodule "rest-client"]
+	path = rest-client
+	url = https://github.com/chef/rest-client.git

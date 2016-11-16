@@ -1693,3 +1693,6 @@
 [submodule "webmachine"]
 	path = webmachine
 	url = https://github.com/chef/webmachine.git
+[submodule "windows-openssl-build"]
+	path = windows-openssl-build
+	url = https://github.com/chef/windows-openssl-build.git

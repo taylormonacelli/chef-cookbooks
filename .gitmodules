@@ -1675,3 +1675,6 @@
 [submodule "stats_hero"]
 	path = stats_hero
 	url = https://github.com/chef/stats_hero.git
+[submodule "supermarket"]
+	path = supermarket
+	url = https://github.com/chef/supermarket.git

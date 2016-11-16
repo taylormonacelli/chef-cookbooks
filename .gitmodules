@@ -1849,3 +1849,6 @@
 [submodule "gecode"]
 	path = gecode
 	url = https://github.com/chef-cookbooks/gecode
+[submodule "gems"]
+	path = gems
+	url = https://github.com/chef-cookbooks/gems

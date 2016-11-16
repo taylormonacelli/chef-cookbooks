@@ -1207,3 +1207,6 @@
 [submodule "chef_wm"]
 	path = chef_wm
 	url = https://github.com/chef/chef_wm.git
+[submodule "cheffish"]
+	path = cheffish
+	url = https://github.com/chef/cheffish.git

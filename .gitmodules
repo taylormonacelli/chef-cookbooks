@@ -1819,3 +1819,6 @@
 [submodule "dmg"]
 	path = dmg
 	url = https://github.com/chef-cookbooks/dmg
+[submodule "docker"]
+	path = docker
+	url = https://github.com/chef-cookbooks/docker

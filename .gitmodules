@@ -1435,3 +1435,6 @@
 [submodule "license_scout"]
 	path = license_scout
 	url = https://github.com/chef/license_scout.git
+[submodule "lita-artifactory"]
+	path = lita-artifactory
+	url = https://github.com/chef/lita-artifactory.git

@@ -1213,3 +1213,6 @@
 [submodule "chefops-plans"]
 	path = chefops-plans
 	url = https://github.com/chef/chefops-plans.git
+[submodule "chefstyle"]
+	path = chefstyle
+	url = https://github.com/chef/chefstyle.git

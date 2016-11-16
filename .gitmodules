@@ -1249,3 +1249,6 @@
 [submodule "dcob"]
 	path = dcob
 	url = https://github.com/chef/dcob.git
+[submodule "delivery-cli"]
+	path = delivery-cli
+	url = https://github.com/chef/delivery-cli.git

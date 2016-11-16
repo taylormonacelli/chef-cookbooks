@@ -1348,3 +1348,6 @@
 [submodule "folsom_graphite"]
 	path = folsom_graphite
 	url = https://github.com/chef/folsom_graphite.git
+[submodule "habitat-example-plans"]
+	path = habitat-example-plans
+	url = https://github.com/chef/habitat-example-plans.git

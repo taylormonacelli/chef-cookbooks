@@ -1669,3 +1669,6 @@
 [submodule "sqerl"]
 	path = sqerl
 	url = https://github.com/chef/sqerl.git
+[submodule "starter-srpid"]
+	path = starter-srpid
+	url = https://github.com/chef/starter-srpid.git

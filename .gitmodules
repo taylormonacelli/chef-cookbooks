@@ -1261,3 +1261,6 @@
 [submodule "dep-selector"]
 	path = dep-selector
 	url = https://github.com/chef/dep-selector.git
+[submodule "depsolver"]
+	path = depsolver
+	url = https://github.com/chef/depsolver.git

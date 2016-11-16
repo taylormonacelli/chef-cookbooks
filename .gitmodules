@@ -1252,3 +1252,6 @@
 [submodule "delivery-cli"]
 	path = delivery-cli
 	url = https://github.com/chef/delivery-cli.git
+[submodule "delivery_self_guided_trial"]
+	path = delivery_self_guided_trial
+	url = https://github.com/chef/delivery_self_guided_trial.git

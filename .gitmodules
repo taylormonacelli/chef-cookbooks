@@ -1255,3 +1255,6 @@
 [submodule "delivery_self_guided_trial"]
 	path = delivery_self_guided_trial
 	url = https://github.com/chef/delivery_self_guided_trial.git
+[submodule "dep-selector-libgecode"]
+	path = dep-selector-libgecode
+	url = https://github.com/chef/dep-selector-libgecode.git

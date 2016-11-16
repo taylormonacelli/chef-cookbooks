@@ -1279,3 +1279,6 @@
 [submodule "dotscaleworkshop"]
 	path = dotscaleworkshop
 	url = https://github.com/chef/dotscaleworkshop.git
+[submodule "ec-metal"]
+	path = ec-metal
+	url = https://github.com/chef/ec-metal.git

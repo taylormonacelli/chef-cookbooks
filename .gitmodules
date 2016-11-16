@@ -1759,3 +1759,6 @@
 [submodule "chef-yum-docker"]
 	path = chef-yum-docker
 	url = https://github.com/chef-cookbooks/chef-yum-docker
+[submodule "chef_hostname"]
+	path = chef_hostname
+	url = https://github.com/chef-cookbooks/chef_hostname

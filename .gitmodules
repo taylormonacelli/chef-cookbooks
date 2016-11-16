@@ -1051,3 +1051,6 @@
 [submodule "apt-source-whitelist"]
 	path = apt-source-whitelist
 	url = https://github.com/chef/apt-source-whitelist.git
+[submodule "artifactory-client"]
+	path = artifactory-client
+	url = https://github.com/chef/artifactory-client.git

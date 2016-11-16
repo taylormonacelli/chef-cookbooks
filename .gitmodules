@@ -1981,3 +1981,6 @@
 [submodule "subversion"]
 	path = subversion
 	url = https://github.com/chef-cookbooks/subversion
+[submodule "suicide_control"]
+	path = suicide_control
+	url = https://github.com/chef-cookbooks/suicide_control

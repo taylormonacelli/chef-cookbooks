@@ -1573,3 +1573,6 @@
 [submodule "omnitruck"]
 	path = omnitruck
 	url = https://github.com/chef/omnitruck.git
+[submodule "opscode-darklaunch-erlang"]
+	path = opscode-darklaunch-erlang
+	url = https://github.com/chef/opscode-darklaunch-erlang.git

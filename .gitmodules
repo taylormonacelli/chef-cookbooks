@@ -1606,3 +1606,6 @@
 [submodule "opscoderl_wm"]
 	path = opscoderl_wm
 	url = https://github.com/chef/opscoderl_wm.git
+[submodule "pantry-chef-repo"]
+	path = pantry-chef-repo
+	url = https://github.com/chef/pantry-chef-repo.git

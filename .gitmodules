@@ -1090,3 +1090,6 @@
 [submodule "chef-manage-issues"]
 	path = chef-manage-issues
 	url = https://github.com/chef/chef-manage-issues.git
+[submodule "chef-mover"]
+	path = chef-mover
+	url = https://github.com/chef/chef-mover.git

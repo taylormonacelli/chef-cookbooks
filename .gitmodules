@@ -1855,3 +1855,6 @@
 [submodule "git"]
 	path = git
 	url = https://github.com/chef-cookbooks/git
+[submodule "gunicorn"]
+	path = gunicorn
+	url = https://github.com/chef-cookbooks/gunicorn

@@ -1495,3 +1495,6 @@
 [submodule "mixlib-versioning"]
 	path = mixlib-versioning
 	url = https://github.com/chef/mixlib-versioning.git
+[submodule "modern-chef"]
+	path = modern-chef
+	url = https://github.com/chef/modern-chef.git

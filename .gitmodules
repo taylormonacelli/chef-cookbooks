@@ -1366,3 +1366,6 @@
 [submodule "jenkins_pipeline_report"]
 	path = jenkins_pipeline_report
 	url = https://github.com/chef/jenkins_pipeline_report.git
+[submodule "jiffy"]
+	path = jiffy
+	url = https://github.com/chef/jiffy.git

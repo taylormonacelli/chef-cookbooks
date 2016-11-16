@@ -1087,3 +1087,6 @@
 [submodule "chef-dk"]
 	path = chef-dk
 	url = https://github.com/chef/chef-dk.git
+[submodule "chef-manage-issues"]
+	path = chef-manage-issues
+	url = https://github.com/chef/chef-manage-issues.git

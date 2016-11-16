@@ -1309,3 +1309,6 @@
 [submodule "erlang-oauth"]
 	path = erlang-oauth
 	url = https://github.com/chef/erlang-oauth.git
+[submodule "erlang_iso8601"]
+	path = erlang_iso8601
+	url = https://github.com/chef/erlang_iso8601.git

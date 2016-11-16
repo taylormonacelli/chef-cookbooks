@@ -1609,3 +1609,6 @@
 [submodule "pantry-chef-repo"]
 	path = pantry-chef-repo
 	url = https://github.com/chef/pantry-chef-repo.git
+[submodule "paprika"]
+	path = paprika
+	url = https://github.com/chef/paprika.git

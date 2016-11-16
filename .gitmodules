@@ -1168,3 +1168,6 @@
 [submodule "chef-vault"]
 	path = chef-vault
 	url = https://github.com/chef/chef-vault.git
+[submodule "chef-web-core"]
+	path = chef-web-core
+	url = https://github.com/chef/chef-web-core.git

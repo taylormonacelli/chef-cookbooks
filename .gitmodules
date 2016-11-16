@@ -1990,3 +1990,6 @@
 [submodule "tftp"]
 	path = tftp
 	url = https://github.com/chef-cookbooks/tftp
+[submodule "tomcat"]
+	path = tomcat
+	url = https://github.com/chef-cookbooks/tomcat

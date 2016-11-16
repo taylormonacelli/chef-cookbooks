@@ -1048,3 +1048,6 @@
 [submodule "appbundler"]
 	path = appbundler
 	url = https://github.com/chef/appbundler.git
+[submodule "apt-source-whitelist"]
+	path = apt-source-whitelist
+	url = https://github.com/chef/apt-source-whitelist.git

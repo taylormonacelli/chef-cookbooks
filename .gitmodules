@@ -1114,3 +1114,6 @@
 [submodule "chef-provisioning-docker"]
 	path = chef-provisioning-docker
 	url = https://github.com/chef/chef-provisioning-docker.git
+[submodule "chef-provisioning-fog"]
+	path = chef-provisioning-fog
+	url = https://github.com/chef/chef-provisioning-fog.git

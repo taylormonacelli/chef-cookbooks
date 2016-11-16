@@ -1321,3 +1321,6 @@
 [submodule "erlzmq2"]
 	path = erlzmq2
 	url = https://github.com/chef/erlzmq2.git
+[submodule "esaml"]
+	path = esaml
+	url = https://github.com/chef/esaml.git

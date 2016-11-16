@@ -2008,3 +2008,6 @@
 [submodule "unicorn"]
 	path = unicorn
 	url = https://github.com/chef-cookbooks/unicorn
+[submodule "users"]
+	path = users
+	url = https://github.com/chef-cookbooks/users

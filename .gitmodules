@@ -1390,3 +1390,6 @@
 [submodule "knife-ec-backup"]
 	path = knife-ec-backup
 	url = https://github.com/chef/knife-ec-backup.git
+[submodule "knife-ec2"]
+	path = knife-ec2
+	url = https://github.com/chef/knife-ec2.git

@@ -1282,3 +1282,6 @@
 [submodule "ec-metal"]
 	path = ec-metal
 	url = https://github.com/chef/ec-metal.git
+[submodule "efast_xs"]
+	path = efast_xs
+	url = https://github.com/chef/efast_xs.git

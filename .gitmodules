@@ -1174,3 +1174,6 @@
 [submodule "chef-zero"]
 	path = chef-zero
 	url = https://github.com/chef/chef-zero.git
+[submodule "chef_authn"]
+	path = chef_authn
+	url = https://github.com/chef/chef_authn.git

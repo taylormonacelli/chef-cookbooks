@@ -1093,3 +1093,6 @@
 [submodule "chef-mover"]
 	path = chef-mover
 	url = https://github.com/chef/chef-mover.git
+[submodule "chef-oss-repo-template"]
+	path = chef-oss-repo-template
+	url = https://github.com/chef/chef-oss-repo-template.git

@@ -2026,3 +2026,6 @@
 [submodule "yum-atrpms"]
 	path = yum-atrpms
 	url = https://github.com/chef-cookbooks/yum-atrpms
+[submodule "yum-percona"]
+	path = yum-percona
+	url = https://github.com/chef-cookbooks/yum-percona

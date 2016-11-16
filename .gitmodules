@@ -1792,3 +1792,6 @@
 [submodule "delivery-base"]
 	path = delivery-base
 	url = https://github.com/chef-cookbooks/delivery-base
+[submodule "delivery-cluster"]
+	path = delivery-cluster
+	url = https://github.com/chef-cookbooks/delivery-cluster

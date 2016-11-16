@@ -1288,3 +1288,6 @@
 [submodule "enterprise-chef-server-schema"]
 	path = enterprise-chef-server-schema
 	url = https://github.com/chef/enterprise-chef-server-schema.git
+[submodule "epgsql-1"]
+	path = epgsql-1
+	url = https://github.com/chef/epgsql-1.git

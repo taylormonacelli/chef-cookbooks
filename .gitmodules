@@ -1984,3 +1984,6 @@
 [submodule "suicide_control"]
 	path = suicide_control
 	url = https://github.com/chef-cookbooks/suicide_control
+[submodule "supermarket-omnibus-cookbook"]
+	path = supermarket-omnibus-cookbook
+	url = https://github.com/chef-cookbooks/supermarket-omnibus-cookbook

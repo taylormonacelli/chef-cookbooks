@@ -1657,3 +1657,6 @@
 [submodule "s3-tests"]
 	path = s3-tests
 	url = https://github.com/chef/s3-tests.git
+[submodule "sdlc-facilitators-guide"]
+	path = sdlc-facilitators-guide
+	url = https://github.com/chef/sdlc-facilitators-guide.git

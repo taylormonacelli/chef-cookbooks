@@ -1945,3 +1945,6 @@
 [submodule "route53"]
 	path = route53
 	url = https://github.com/chef-cookbooks/route53
+[submodule "rsync"]
+	path = rsync
+	url = https://github.com/chef-cookbooks/rsync

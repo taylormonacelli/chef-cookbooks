@@ -1300,3 +1300,6 @@
 [submodule "eredis"]
 	path = eredis
 	url = https://github.com/chef/eredis.git
+[submodule "erlang-bcrypt"]
+	path = erlang-bcrypt
+	url = https://github.com/chef/erlang-bcrypt.git

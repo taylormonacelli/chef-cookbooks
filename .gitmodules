@@ -1588,3 +1588,6 @@
 [submodule "opscode-pushy-server"]
 	path = opscode-pushy-server
 	url = https://github.com/chef/opscode-pushy-server.git
+[submodule "opscode-pushy-simulator"]
+	path = opscode-pushy-simulator
+	url = https://github.com/chef/opscode-pushy-simulator.git

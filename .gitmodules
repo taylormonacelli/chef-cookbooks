@@ -1816,3 +1816,6 @@
 [submodule "djbdns"]
 	path = djbdns
 	url = https://github.com/chef-cookbooks/djbdns
+[submodule "dmg"]
+	path = dmg
+	url = https://github.com/chef-cookbooks/dmg

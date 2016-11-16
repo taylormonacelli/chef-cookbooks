@@ -1195,3 +1195,6 @@
 [submodule "chef_pgtap"]
 	path = chef_pgtap
 	url = https://github.com/chef/chef_pgtap.git
+[submodule "chef_reindex"]
+	path = chef_reindex
+	url = https://github.com/chef/chef_reindex.git

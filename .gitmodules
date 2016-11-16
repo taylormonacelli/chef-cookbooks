@@ -1534,3 +1534,6 @@
 [submodule "ohai-verifier"]
 	path = ohai-verifier
 	url = https://github.com/chef/ohai-verifier.git
+[submodule "ohai"]
+	path = ohai
+	url = https://github.com/chef/ohai.git

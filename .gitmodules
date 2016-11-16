@@ -1996,3 +1996,6 @@
 [submodule "transmission"]
 	path = transmission
 	url = https://github.com/chef-cookbooks/transmission
+[submodule "trusted_certificate"]
+	path = trusted_certificate
+	url = https://github.com/chef-cookbooks/trusted_certificate

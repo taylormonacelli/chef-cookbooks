@@ -1408,3 +1408,6 @@
 [submodule "knife-opc"]
 	path = knife-opc
 	url = https://github.com/chef/knife-opc.git
+[submodule "knife-openstack"]
+	path = knife-openstack
+	url = https://github.com/chef/knife-openstack.git

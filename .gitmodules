@@ -1966,3 +1966,6 @@
 [submodule "sqlite"]
 	path = sqlite
 	url = https://github.com/chef-cookbooks/sqlite
+[submodule "squid"]
+	path = squid
+	url = https://github.com/chef-cookbooks/squid

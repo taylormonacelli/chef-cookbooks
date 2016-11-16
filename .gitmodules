@@ -1714,3 +1714,6 @@
 [submodule "aix"]
 	path = aix
 	url = https://github.com/chef-cookbooks/aix
+[submodule "analytics-cluster"]
+	path = analytics-cluster
+	url = https://github.com/chef-cookbooks/analytics-cluster

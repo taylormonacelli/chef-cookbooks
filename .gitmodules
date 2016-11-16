@@ -1798,3 +1798,6 @@
 [submodule "delivery-github-demo"]
 	path = delivery-github-demo
 	url = https://github.com/chef-cookbooks/delivery-github-demo
+[submodule "delivery-sugar"]
+	path = delivery-sugar
+	url = https://github.com/chef-cookbooks/delivery-sugar

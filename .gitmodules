@@ -1498,3 +1498,6 @@
 [submodule "modern-chef"]
 	path = modern-chef
 	url = https://github.com/chef/modern-chef.git
+[submodule "moser"]
+	path = moser
+	url = https://github.com/chef/moser.git

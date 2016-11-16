@@ -1648,3 +1648,6 @@
 [submodule "rest-client"]
 	path = rest-client
 	url = https://github.com/chef/rest-client.git
+[submodule "rs-chef-api"]
+	path = rs-chef-api
+	url = https://github.com/chef/rs-chef-api.git

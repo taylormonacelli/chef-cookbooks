@@ -2017,3 +2017,6 @@
 [submodule "webpi"]
 	path = webpi
 	url = https://github.com/chef-cookbooks/webpi
+[submodule "whitelist-node-attrs"]
+	path = whitelist-node-attrs
+	url = https://github.com/chef-cookbooks/whitelist-node-attrs

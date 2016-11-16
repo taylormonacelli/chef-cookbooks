@@ -1687,3 +1687,6 @@
 [submodule "train"]
 	path = train
 	url = https://github.com/chef/train.git
+[submodule "vagrant-omnibus"]
+	path = vagrant-omnibus
+	url = https://github.com/chef/vagrant-omnibus.git

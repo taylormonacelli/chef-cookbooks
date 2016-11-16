@@ -1558,3 +1558,6 @@
 [submodule "omnibus-monitoring"]
 	path = omnibus-monitoring
 	url = https://github.com/chef/omnibus-monitoring.git
+[submodule "omnibus-push-jobs-client"]
+	path = omnibus-push-jobs-client
+	url = https://github.com/chef/omnibus-push-jobs-client.git

@@ -1306,3 +1306,6 @@
 [submodule "erlang-hmac-sha"]
 	path = erlang-hmac-sha
 	url = https://github.com/chef/erlang-hmac-sha.git
+[submodule "erlang-oauth"]
+	path = erlang-oauth
+	url = https://github.com/chef/erlang-oauth.git

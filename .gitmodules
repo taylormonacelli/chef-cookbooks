@@ -1468,3 +1468,6 @@
 [submodule "mixer"]
 	path = mixer
 	url = https://github.com/chef/mixer.git
+[submodule "mixlib-archive"]
+	path = mixlib-archive
+	url = https://github.com/chef/mixlib-archive.git

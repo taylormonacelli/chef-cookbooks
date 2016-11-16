@@ -1138,3 +1138,6 @@
 [submodule "chef-push"]
 	path = chef-push
 	url = https://github.com/chef/chef-push.git
+[submodule "chef-reporting"]
+	path = chef-reporting
+	url = https://github.com/chef/chef-reporting.git

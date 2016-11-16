@@ -1774,3 +1774,6 @@
 [submodule "client-rekey"]
 	path = client-rekey
 	url = https://github.com/chef-cookbooks/client-rekey
+[submodule "community_cookbook_documentation"]
+	path = community_cookbook_documentation
+	url = https://github.com/chef-cookbooks/community_cookbook_documentation

@@ -1471,3 +1471,6 @@
 [submodule "mixlib-archive"]
 	path = mixlib-archive
 	url = https://github.com/chef/mixlib-archive.git
+[submodule "mixlib-authentication"]
+	path = mixlib-authentication
+	url = https://github.com/chef/mixlib-authentication.git

@@ -2077,3 +2077,6 @@
 [submodule "poise-graphite"]
 	path = poise-graphite
 	url = https://github.com/kisoku/poise-graphite.git
+[submodule "rackspace_lbaas"]
+	path = rackspace_lbaas
+	url = https://github.com/theborch/rackspace_lbaas.git

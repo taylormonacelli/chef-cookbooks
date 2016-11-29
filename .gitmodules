@@ -2053,3 +2053,6 @@
 [submodule "ohai_public_info"]
 	path = ohai_public_info
 	url = https://github.com/rackspace-cookbooks/ohai_public_info.git
+[submodule "monit-cookbook"]
+	path = monit-cookbook
+	url = https://github.com/acaiafa/monit-cookbook.git

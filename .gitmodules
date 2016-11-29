@@ -2080,3 +2080,6 @@
 [submodule "rackspace_lbaas"]
 	path = rackspace_lbaas
 	url = https://github.com/theborch/rackspace_lbaas.git
+[submodule "eldus-tomcat"]
+	path = eldus-tomcat
+	url = https://github.com/ldesiqueira/eldus-tomcat.git

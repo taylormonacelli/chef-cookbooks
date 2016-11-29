@@ -2110,3 +2110,6 @@
 [submodule "rdiff-backup"]
 	path = rdiff-backup
 	url = https://github.com/osuosl-cookbooks/rdiff-backup.git
+[submodule "knife-boxer"]
+	path = knife-boxer
+	url = https://github.com/danielsdeleo/knife-boxer.git

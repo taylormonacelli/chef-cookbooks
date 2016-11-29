@@ -2104,3 +2104,6 @@
 [submodule "poise-haproxy"]
 	path = poise-haproxy
 	url = https://github.com/johnbellone/poise-haproxy.git
+[submodule "nrpe-ng-cookbook"]
+	path = nrpe-ng-cookbook
+	url = https://github.com/johnbellone/nrpe-ng-cookbook.git

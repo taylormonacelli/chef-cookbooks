@@ -2062,3 +2062,6 @@
 [submodule "nomad-cluster-cookbook"]
 	path = nomad-cluster-cookbook
 	url = https://github.com/johnbellone/nomad-cluster-cookbook.git
+[submodule "tls-cookbook"]
+	path = tls-cookbook
+	url = https://github.com/johnbellone/tls-cookbook.git

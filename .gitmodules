@@ -2044,3 +2044,6 @@
 [submodule "poise-javascript"]
 	path = poise-javascript
 	url = https://github.com/poise/poise-javascript.git
+[submodule "poise-docker"]
+	path = poise-docker
+	url = https://github.com/coderanger/poise-docker

@@ -2095,3 +2095,6 @@
 [submodule "hosts_allow-cookbook"]
 	path = hosts_allow-cookbook
 	url = https://github.com/acaiafa/hosts_allow-cookbook.git
+[submodule "securetty-cookbook"]
+	path = securetty-cookbook
+	url = https://github.com/acaiafa/securetty-cookbook.git

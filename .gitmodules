@@ -2050,3 +2050,6 @@
 [submodule "mesos-cluster-cookbook"]
 	path = mesos-cluster-cookbook
 	url = https://github.com/johnbellone/mesos-cluster-cookbook.git
+[submodule "ohai_public_info"]
+	path = ohai_public_info
+	url = https://github.com/rackspace-cookbooks/ohai_public_info.git

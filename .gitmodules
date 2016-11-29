@@ -2107,3 +2107,6 @@
 [submodule "nrpe-ng-cookbook"]
 	path = nrpe-ng-cookbook
 	url = https://github.com/johnbellone/nrpe-ng-cookbook.git
+[submodule "rdiff-backup"]
+	path = rdiff-backup
+	url = https://github.com/osuosl-cookbooks/rdiff-backup.git

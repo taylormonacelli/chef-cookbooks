@@ -2101,3 +2101,6 @@
 [submodule "kafka-cookbook"]
 	path = kafka-cookbook
 	url = https://github.com/bloomberg/kafka-cookbook.git
+[submodule "poise-haproxy"]
+	path = poise-haproxy
+	url = https://github.com/johnbellone/poise-haproxy.git

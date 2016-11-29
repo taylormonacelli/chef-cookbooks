@@ -2059,3 +2059,6 @@
 [submodule "jenkins-cluster-cookbook"]
 	path = jenkins-cluster-cookbook
 	url = https://github.com/bloomberg/jenkins-cluster-cookbook.git
+[submodule "nomad-cluster-cookbook"]
+	path = nomad-cluster-cookbook
+	url = https://github.com/johnbellone/nomad-cluster-cookbook.git

@@ -2065,3 +2065,6 @@
 [submodule "tls-cookbook"]
 	path = tls-cookbook
 	url = https://github.com/johnbellone/tls-cookbook.git
+[submodule "consul-replicate-cookbook"]
+	path = consul-replicate-cookbook
+	url = https://github.com/johnbellone/consul-replicate-cookbook.git

@@ -2047,3 +2047,6 @@
 [submodule "poise-docker"]
 	path = poise-docker
 	url = https://github.com/coderanger/poise-docker
+[submodule "mesos-cluster-cookbook"]
+	path = mesos-cluster-cookbook
+	url = https://github.com/johnbellone/mesos-cluster-cookbook.git

@@ -2098,3 +2098,6 @@
 [submodule "securetty-cookbook"]
 	path = securetty-cookbook
 	url = https://github.com/acaiafa/securetty-cookbook.git
+[submodule "kafka-cookbook"]
+	path = kafka-cookbook
+	url = https://github.com/bloomberg/kafka-cookbook.git

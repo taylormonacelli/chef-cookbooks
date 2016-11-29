@@ -2125,3 +2125,6 @@
 [submodule "poise-repomgr"]
 	path = poise-repomgr
 	url = https://github.com/coderanger/poise-repomgr.git
+[submodule "poise-service-aix"]
+	path = poise-service-aix
+	url = https://github.com/coderanger/poise-service-aix.git

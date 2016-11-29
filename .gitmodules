@@ -2056,3 +2056,6 @@
 [submodule "monit-cookbook"]
 	path = monit-cookbook
 	url = https://github.com/acaiafa/monit-cookbook.git
+[submodule "jenkins-cluster-cookbook"]
+	path = jenkins-cluster-cookbook
+	url = https://github.com/bloomberg/jenkins-cluster-cookbook.git

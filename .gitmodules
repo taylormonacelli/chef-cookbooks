@@ -2083,3 +2083,6 @@
 [submodule "eldus-tomcat"]
 	path = eldus-tomcat
 	url = https://github.com/ldesiqueira/eldus-tomcat.git
+[submodule "cassandra-cluster-cookbook"]
+	path = cassandra-cluster-cookbook
+	url = https://github.com/johnbellone/cassandra-cluster-cookbook.git

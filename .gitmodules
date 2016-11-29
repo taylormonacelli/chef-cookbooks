@@ -2068,3 +2068,6 @@
 [submodule "consul-replicate-cookbook"]
 	path = consul-replicate-cookbook
 	url = https://github.com/johnbellone/consul-replicate-cookbook.git
+[submodule "ac-chef-sample"]
+	path = ac-chef-sample
+	url = https://github.com/acbr/ac-chef-sample.git

@@ -2122,3 +2122,6 @@
 [submodule "chef-config-nelhage"]
 	path = chef-config-nelhage
 	url = https://github.com/nelhage/chef-config-nelhage.git
+[submodule "poise-repomgr"]
+	path = poise-repomgr
+	url = https://github.com/coderanger/poise-repomgr.git

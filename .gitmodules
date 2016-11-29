@@ -2089,3 +2089,6 @@
 [submodule "eldus-hubot"]
 	path = eldus-hubot
 	url = https://github.com/ldesiqueira/eldus-hubot.git
+[submodule "chef-sample-lwrp"]
+	path = chef-sample-lwrp
+	url = https://github.com/jrvlima/chef-sample-lwrp.git

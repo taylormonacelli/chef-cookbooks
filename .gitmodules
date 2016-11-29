@@ -2041,3 +2041,6 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/chef-cookbooks/zsh
+[submodule "poise-javascript"]
+	path = poise-javascript
+	url = https://github.com/poise/poise-javascript.git

@@ -2113,3 +2113,6 @@
 [submodule "knife-boxer"]
 	path = knife-boxer
 	url = https://github.com/danielsdeleo/knife-boxer.git
+[submodule "timesync"]
+	path = timesync
+	url = https://github.com/osuosl-cookbooks/timesync.git

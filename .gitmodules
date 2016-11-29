@@ -2116,3 +2116,9 @@
 [submodule "timesync"]
 	path = timesync
 	url = https://github.com/osuosl-cookbooks/timesync.git
+[submodule "poise-proxy"]
+	path = poise-proxy
+	url = https://github.com/poise/poise-proxy.git
+[submodule "chef-config-nelhage"]
+	path = chef-config-nelhage
+	url = https://github.com/nelhage/chef-config-nelhage.git

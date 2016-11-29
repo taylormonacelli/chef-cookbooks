@@ -2086,3 +2086,6 @@
 [submodule "cassandra-cluster-cookbook"]
 	path = cassandra-cluster-cookbook
 	url = https://github.com/johnbellone/cassandra-cluster-cookbook.git
+[submodule "eldus-hubot"]
+	path = eldus-hubot
+	url = https://github.com/ldesiqueira/eldus-hubot.git

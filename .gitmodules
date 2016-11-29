@@ -2074,3 +2074,6 @@
 [submodule "puneets-confd-cookbook"]
 	path = puneets-confd-cookbook
 	url = https://github.com/puneetdce/puneets-confd-cookbook.git
+[submodule "poise-graphite"]
+	path = poise-graphite
+	url = https://github.com/kisoku/poise-graphite.git

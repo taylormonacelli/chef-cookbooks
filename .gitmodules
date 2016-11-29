@@ -2092,3 +2092,6 @@
 [submodule "chef-sample-lwrp"]
 	path = chef-sample-lwrp
 	url = https://github.com/jrvlima/chef-sample-lwrp.git
+[submodule "hosts_allow-cookbook"]
+	path = hosts_allow-cookbook
+	url = https://github.com/acaiafa/hosts_allow-cookbook.git

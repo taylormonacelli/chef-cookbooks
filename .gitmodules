@@ -2071,3 +2071,6 @@
 [submodule "ac-chef-sample"]
 	path = ac-chef-sample
 	url = https://github.com/acbr/ac-chef-sample.git
+[submodule "puneets-confd-cookbook"]
+	path = puneets-confd-cookbook
+	url = https://github.com/puneetdce/puneets-confd-cookbook.git

@@ -2197,3 +2197,6 @@
 [submodule "test_flask"]
 	path = test_flask
 	url = https://github.com/poise/test_flask.git
+[submodule "poise-dash-prototype"]
+	path = poise-dash-prototype
+	url = https://github.com/poise/poise-dash-prototype.git

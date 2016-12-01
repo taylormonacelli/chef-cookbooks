@@ -2149,3 +2149,6 @@
 [submodule "application_git"]
 	path = application_git
 	url = https://github.com/poise/application_git.git
+[submodule "application_ruby"]
+	path = application_ruby
+	url = https://github.com/poise/application_ruby.git

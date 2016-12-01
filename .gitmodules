@@ -2194,3 +2194,6 @@
 [submodule "test_rails"]
 	path = test_rails
 	url = https://github.com/poise/test_rails.git
+[submodule "test_flask"]
+	path = test_flask
+	url = https://github.com/poise/test_flask.git

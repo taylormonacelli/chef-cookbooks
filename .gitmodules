@@ -2191,3 +2191,6 @@
 [submodule "poise-dash-data"]
 	path = poise-dash-data
 	url = https://github.com/poise/poise-dash-data.git
+[submodule "test_rails"]
+	path = test_rails
+	url = https://github.com/poise/test_rails.git

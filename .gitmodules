@@ -2140,3 +2140,6 @@
 [submodule "poise-boiler"]
 	path = poise-boiler
 	url = https://github.com/poise/poise-boiler.git
+[submodule "poise-monit-compat"]
+	path = poise-monit-compat
+	url = https://github.com/poise/poise-monit-compat.git

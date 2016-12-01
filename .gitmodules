@@ -2170,3 +2170,6 @@
 [submodule "poise-ruby"]
 	path = poise-ruby
 	url = https://github.com/poise/poise-ruby.git
+[submodule "halite"]
+	path = halite
+	url = https://github.com/poise/halite.git

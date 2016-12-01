@@ -2155,3 +2155,6 @@
 [submodule "poise-hoist"]
 	path = poise-hoist
 	url = https://github.com/poise/poise-hoist.git
+[submodule "yolover-example"]
+	path = yolover-example
+	url = https://github.com/poise/yolover-example.git

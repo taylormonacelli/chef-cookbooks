@@ -2173,3 +2173,6 @@
 [submodule "halite"]
 	path = halite
 	url = https://github.com/poise/halite.git
+[submodule "citadel"]
+	path = citadel
+	url = https://github.com/poise/citadel.git

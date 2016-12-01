@@ -2185,3 +2185,6 @@
 [submodule "kitchen-zone"]
 	path = kitchen-zone
 	url = https://github.com/poise/kitchen-zone.git
+[submodule "poise-service-spechelper"]
+	path = poise-service-spechelper
+	url = https://github.com/poise/poise-service-spechelper.git

@@ -2167,3 +2167,6 @@
 [submodule "poise-spec"]
 	path = poise-spec
 	url = https://github.com/poise/poise-spec.git
+[submodule "poise-ruby"]
+	path = poise-ruby
+	url = https://github.com/poise/poise-ruby.git

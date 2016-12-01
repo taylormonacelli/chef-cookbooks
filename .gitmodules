@@ -2158,3 +2158,6 @@
 [submodule "yolover-example"]
 	path = yolover-example
 	url = https://github.com/poise/yolover-example.git
+[submodule "poise-languages"]
+	path = poise-languages
+	url = https://github.com/poise/poise-languages.git

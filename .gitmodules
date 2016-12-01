@@ -2131,3 +2131,9 @@
 [submodule "wordpress-cookbook"]
 	path = wordpress-cookbook
 	url = https://github.com/brint/wordpress-cookbook.git
+[submodule "chef-omeka"]
+	path = chef-omeka
+	url = https://github.com/Harvard-ATG/chef-omeka.git
+[submodule "poise-monit"]
+	path = poise-monit
+	url = https://github.com/poise/poise-monit.git

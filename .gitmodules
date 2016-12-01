@@ -2203,3 +2203,6 @@
 [submodule "jenkins-poise"]
 	path = jenkins-poise
 	url = https://github.com/poise/jenkins.git
+[submodule "rundeck"]
+	path = rundeck
+	url = https://github.com/poise/rundeck.git

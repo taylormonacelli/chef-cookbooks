@@ -2146,3 +2146,6 @@
 [submodule "rubocop-chef"]
 	path = rubocop-chef
 	url = https://github.com/poise/rubocop-chef.git
+[submodule "application_git"]
+	path = application_git
+	url = https://github.com/poise/application_git.git

@@ -2176,3 +2176,6 @@
 [submodule "citadel"]
 	path = citadel
 	url = https://github.com/poise/citadel.git
+[submodule "poise-service-monit"]
+	path = poise-service-monit
+	url = https://github.com/poise/poise-service-monit.git

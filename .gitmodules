@@ -2182,3 +2182,6 @@
 [submodule "poise-profiler"]
 	path = poise-profiler
 	url = https://github.com/poise/poise-profiler.git
+[submodule "kitchen-zone"]
+	path = kitchen-zone
+	url = https://github.com/poise/kitchen-zone.git

@@ -2200,3 +2200,6 @@
 [submodule "poise-dash-prototype"]
 	path = poise-dash-prototype
 	url = https://github.com/poise/poise-dash-prototype.git
+[submodule "jenkins-poise"]
+	path = jenkins-poise
+	url = https://github.com/poise/jenkins.git

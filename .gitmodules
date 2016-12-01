@@ -2143,3 +2143,6 @@
 [submodule "poise-monit-compat"]
 	path = poise-monit-compat
 	url = https://github.com/poise/poise-monit-compat.git
+[submodule "rubocop-chef"]
+	path = rubocop-chef
+	url = https://github.com/poise/rubocop-chef.git

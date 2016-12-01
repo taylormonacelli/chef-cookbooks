@@ -2188,3 +2188,6 @@
 [submodule "poise-service-spechelper"]
 	path = poise-service-spechelper
 	url = https://github.com/poise/poise-service-spechelper.git
+[submodule "poise-dash-data"]
+	path = poise-dash-data
+	url = https://github.com/poise/poise-dash-data.git

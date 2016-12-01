@@ -2206,3 +2206,6 @@
 [submodule "rundeck"]
 	path = rundeck
 	url = https://github.com/poise/rundeck.git
+[submodule "visualstudio"]
+	path = visualstudio
+	url = https://github.com/windowschefcookbooks/visualstudio.git

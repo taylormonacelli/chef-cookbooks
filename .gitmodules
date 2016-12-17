@@ -2209,3 +2209,6 @@
 [submodule "visualstudio"]
 	path = visualstudio
 	url = https://github.com/windowschefcookbooks/visualstudio.git
+[submodule "chef-logstash"]
+	path = chef-logstash
+	url = https://github.com/lusis/chef-logstash.git

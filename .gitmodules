@@ -2212,3 +2212,9 @@
 [submodule "chef-logstash"]
 	path = chef-logstash
 	url = https://github.com/lusis/chef-logstash.git
+[submodule "cookbook-elasticsearch"]
+	path = cookbook-elasticsearch
+	url = https://github.com/elastic/cookbook-elasticsearch.git
+[submodule "chef-kibana"]
+	path = chef-kibana
+	url = https://github.com/lusis/chef-kibana

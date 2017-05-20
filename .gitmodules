@@ -2218,3 +2218,6 @@
 [submodule "chef-kibana"]
 	path = chef-kibana
 	url = https://github.com/lusis/chef-kibana
+[submodule "hostsfile"]
+	path = hostsfile
+	url = https://github.com/customink-webops/hostsfile.git

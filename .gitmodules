@@ -2221,3 +2221,6 @@
 [submodule "hostsfile"]
 	path = hostsfile
 	url = https://github.com/customink-webops/hostsfile.git
+[submodule "virtualbox-cookbook"]
+	path = virtualbox-cookbook
+	url = https://github.com/bradleyd/virtualbox-cookbook

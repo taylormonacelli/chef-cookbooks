@@ -2227,3 +2227,36 @@
 [submodule "chef-cookbooks"]
 	path = chef-cookbooks
 	url = https://github.com/TaylorMonacelli/chef-cookbooks.git
+[submodule "locale"]
+	path = locale
+	url = https://github.com/chef-cookbooks/locale
+[submodule "lvm"]
+	path = lvm
+	url = https://github.com/chef-cookbooks/lvm
+[submodule "maradns"]
+	path = maradns
+	url = https://github.com/chef-cookbooks/maradns
+[submodule "motd-tail"]
+	path = motd-tail
+	url = https://github.com/chef-cookbooks/motd-tail
+[submodule "selinux"]
+	path = selinux
+	url = https://github.com/chef-cookbooks/selinux
+[submodule "logwatch"]
+	path = logwatch
+	url = https://github.com/chef-cookbooks/logwatch
+[submodule "maven"]
+	path = maven
+	url = https://github.com/chef-cookbooks/maven
+[submodule "memcached"]
+	path = memcached
+	url = https://github.com/chef-cookbooks/memcached
+[submodule "tar"]
+	path = tar
+	url = https://github.com/chef-cookbooks/tar
+[submodule "libarchive"]
+	path = libarchive
+	url = https://github.com/chef-cookbooks/libarchive
+[submodule "elixir"]
+	path = elixir
+	url = https://github.com/chef-cookbooks/elixir

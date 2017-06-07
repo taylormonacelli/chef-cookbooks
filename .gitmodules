@@ -2224,3 +2224,6 @@
 [submodule "virtualbox-cookbook"]
 	path = virtualbox-cookbook
 	url = https://github.com/bradleyd/virtualbox-cookbook
+[submodule "chef-cookbooks"]
+	path = chef-cookbooks
+	url = https://github.com/TaylorMonacelli/chef-cookbooks.git

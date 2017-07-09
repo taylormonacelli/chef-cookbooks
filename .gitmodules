@@ -2260,3 +2260,6 @@
 [submodule "elixir"]
 	path = elixir
 	url = https://github.com/chef-cookbooks/elixir
+[submodule "redis-cookbook"]
+	path = redis-cookbook
+	url = https://github.com/bloomberg/redis-cookbook

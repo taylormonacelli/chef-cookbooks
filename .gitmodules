@@ -2263,3 +2263,423 @@
 [submodule "redis-cookbook"]
 	path = redis-cookbook
 	url = https://github.com/bloomberg/redis-cookbook
+[submodule "https:/github.com/AliHichem/my-mclowd"]
+	path = https:/github.com/AliHichem/my-mclowd
+	url = https://github.com/Abhishek-Dutta/Git
+[submodule "Git"]
+	path = Git
+	url = https://github.com/Abhishek-Dutta/Git
+[submodule "chef-repo"]
+	path = chef-repo
+	url = https://github.com/BoomerET/chef-repo
+[submodule "chef-repo-old"]
+	path = chef-repo-old
+	url = https://github.com/CalculatedContent/chef-repo-old
+[submodule "gottwall-cookbook"]
+	path = gottwall-cookbook
+	url = https://github.com/GottWall/gottwall-cookbook
+[submodule "bitcoin"]
+	path = bitcoin
+	url = https://github.com/KranthiKedari/bitcoin
+[submodule "cookbooks_keepalived"]
+	path = cookbooks_keepalived
+	url = https://github.com/KuninoriKunimoto/cookbooks_keepalived
+[submodule "sentry-cookbook"]
+	path = sentry-cookbook
+	url = https://github.com/Lispython/sentry-cookbook
+[submodule "smartvpn-billing"]
+	path = smartvpn-billing
+	url = https://github.com/Mehonoshin/smartvpn-billing
+[submodule "iptables-web-cookbook"]
+	path = iptables-web-cookbook
+	url = https://github.com/MurgaNikolay/iptables-web-cookbook
+[submodule "ncs_navigator_deployment"]
+	path = ncs_navigator_deployment
+	url = https://github.com/NUBIC/ncs_navigator_deployment
+[submodule "cookbook-arch-remaster"]
+	path = cookbook-arch-remaster
+	url = https://github.com/Saneyan/cookbook-arch-remaster
+[submodule "collectd_ii"]
+	path = collectd_ii
+	url = https://github.com/Stromweld/collectd_ii
+[submodule "rs-rabbitmq"]
+	path = rs-rabbitmq
+	url = https://github.com/alexeyz/rs-rabbitmq
+[submodule "opsworks-django"]
+	path = opsworks-django
+	url = https://github.com/alfredov/opsworks-django
+[submodule "heat_test_kitchen"]
+	path = heat_test_kitchen
+	url = https://github.com/andrew-plunk/heat_test_kitchen
+[submodule "chef-crypto-coin"]
+	path = chef-crypto-coin
+	url = https://github.com/andruby/chef-crypto-coin
+[submodule "cm_chef"]
+	path = cm_chef
+	url = https://github.com/andyhn331/cm_chef
+[submodule "opscode-chef"]
+	path = opscode-chef
+	url = https://github.com/ankit-rakha/opscode-chef
+[submodule "anthroprose.com"]
+	path = anthroprose.com
+	url = https://github.com/anthroprose/anthroprose.com
+[submodule "rpi-mesh"]
+	path = rpi-mesh
+	url = https://github.com/anthroprose/rpi-mesh
+[submodule "django-vagrant"]
+	path = django-vagrant
+	url = https://github.com/arunp7080/django-vagrant
+[submodule "cookbooks"]
+	path = cookbooks
+	url = https://github.com/bborbe/cookbooks
+[submodule "chef-class"]
+	path = chef-class
+	url = https://github.com/beminkin/chef-class
+[submodule "chef-cacti"]
+	path = chef-cacti
+	url = https://github.com/bflad/chef-cacti
+[submodule "php5.4-vagrant-env"]
+	path = php5.4-vagrant-env
+	url = https://github.com/borNfreee/php5.4-vagrant-env
+[submodule "old_chef"]
+	path = old_chef
+	url = https://github.com/boris/old_chef
+[submodule "apache"]
+	path = apache
+	url = https://github.com/burtlo/apache
+[submodule "myfirstrepo"]
+	path = myfirstrepo
+	url = https://github.com/byessayian/myfirstrepo
+[submodule "cheftest2"]
+	path = cheftest2
+	url = https://github.com/cganchev/cheftest2
+[submodule "chef-template-bug"]
+	path = chef-template-bug
+	url = https://github.com/chasebolt/chef-template-bug
+[submodule "chiminey-chef"]
+	path = chiminey-chef
+	url = https://github.com/chiminey/chiminey-chef
+[submodule "mc-logadm"]
+	path = mc-logadm
+	url = https://github.com/cookbooks/mc-logadm
+[submodule "nd-chef-supervisord"]
+	path = nd-chef-supervisord
+	url = https://github.com/cookbooks/nd-chef-supervisord
+[submodule "oc-cron"]
+	path = oc-cron
+	url = https://github.com/cookbooks/oc-cron
+[submodule "opscode-cookbooks"]
+	path = opscode-cookbooks
+	url = https://github.com/corsair-alex/opscode-cookbooks
+[submodule "chef_wp_stack"]
+	path = chef_wp_stack
+	url = https://github.com/ctreatma/chef_wp_stack
+[submodule "chef-supervisord"]
+	path = chef-supervisord
+	url = https://github.com/cyngn/chef-supervisord
+[submodule "carbon"]
+	path = carbon
+	url = https://github.com/damm/carbon
+[submodule "redis"]
+	path = redis
+	url = https://github.com/damm/redis
+[submodule "collectd-ng"]
+	path = collectd-ng
+	url = https://github.com/davidjh/collectd-ng
+[submodule "chef-play"]
+	path = chef-play
+	url = https://github.com/daz-sk/chef-play
+[submodule "cum-cloud"]
+	path = cum-cloud
+	url = https://github.com/dchrzascik/cum-cloud
+[submodule "ChefLearnFiles"]
+	path = ChefLearnFiles
+	url = https://github.com/disispraneeth/ChefLearnFiles
+[submodule "lapl-appathon"]
+	path = lapl-appathon
+	url = https://github.com/dwsla/lapl-appathon
+[submodule "opsworks-slender"]
+	path = opsworks-slender
+	url = https://github.com/dwsla/opsworks-slender
+[submodule "slender-app"]
+	path = slender-app
+	url = https://github.com/dwsla/slender-app
+[submodule "slender-upload"]
+	path = slender-upload
+	url = https://github.com/dwsla/slender-upload
+[submodule "vagrant-12.04.precise64"]
+	path = vagrant-12.04.precise64
+	url = https://github.com/dwsla/vagrant-12.04.precise64
+[submodule "chefserver"]
+	path = chefserver
+	url = https://github.com/eebhub/chefserver
+[submodule "ci-test"]
+	path = ci-test
+	url = https://github.com/ekrupnik/ci-test
+[submodule "dart-chef-repo"]
+	path = dart-chef-repo
+	url = https://github.com/enr74/dart-chef-repo
+[submodule "chef-sudo"]
+	path = chef-sudo
+	url = https://github.com/failshell/chef-sudo
+[submodule "federate.io-chef"]
+	path = federate.io-chef
+	url = https://github.com/federate/federate.io-chef
+[submodule "bfkenv"]
+	path = bfkenv
+	url = https://github.com/galaydaroman/bfkenv
+[submodule "spikes-box"]
+	path = spikes-box
+	url = https://github.com/gauravagarwalr/spikes-box
+[submodule "website-cookbook"]
+	path = website-cookbook
+	url = https://github.com/gchef/website-cookbook
+[submodule "myrepos"]
+	path = myrepos
+	url = https://github.com/gilsonmelo/myrepos
+[submodule "spin-my-vm"]
+	path = spin-my-vm
+	url = https://github.com/gregoriomelo/spin-my-vm
+[submodule "DevOps"]
+	path = DevOps
+	url = https://github.com/gsvicky/DevOps
+[submodule "chef_test1"]
+	path = chef_test1
+	url = https://github.com/guoluyi/chef_test1
+[submodule "cookbooks-test"]
+	path = cookbooks-test
+	url = https://github.com/hSATAC/cookbooks-test
+[submodule "harry"]
+	path = harry
+	url = https://github.com/hariesh4839/harry
+[submodule "grant-sandbox-chef"]
+	path = grant-sandbox-chef
+	url = https://github.com/heffergm/grant-sandbox-chef
+[submodule "rs-public-chef"]
+	path = rs-public-chef
+	url = https://github.com/heffergm/rs-public-chef
+[submodule "chef_basic_example"]
+	path = chef_basic_example
+	url = https://github.com/icclab/chef_basic_example
+[submodule "vagrant-store"]
+	path = vagrant-store
+	url = https://github.com/inbravo/vagrant-store
+[submodule "drupal-test"]
+	path = drupal-test
+	url = https://github.com/ivashchenko-leo/drupal-test
+[submodule "chef_test"]
+	path = chef_test
+	url = https://github.com/jarsever/chef_test
+[submodule "cat-templates"]
+	path = cat-templates
+	url = https://github.com/jethr0null/cat-templates
+[submodule "chef-repo-practice"]
+	path = chef-repo-practice
+	url = https://github.com/jmcmahon/chef-repo-practice
+[submodule "bbwin_cookbook"]
+	path = bbwin_cookbook
+	url = https://github.com/johnsmyth/bbwin_cookbook
+[submodule "page_writer"]
+	path = page_writer
+	url = https://github.com/joventuraz/page_writer
+[submodule "nuvinha"]
+	path = nuvinha
+	url = https://github.com/jpkrohling/nuvinha
+[submodule "application_php_wordpress"]
+	path = application_php_wordpress
+	url = https://github.com/jregeimbal/application_php_wordpress
+[submodule "rails_jobs_research"]
+	path = rails_jobs_research
+	url = https://github.com/k2works/rails_jobs_research
+[submodule "chef-training"]
+	path = chef-training
+	url = https://github.com/kgmartens/chef-training
+[submodule "chef-rsyslog"]
+	path = chef-rsyslog
+	url = https://github.com/kinesisptyltd/chef-rsyslog
+[submodule "Resources"]
+	path = Resources
+	url = https://github.com/ldujardin/Resources
+[submodule "rightscale-cook"]
+	path = rightscale-cook
+	url = https://github.com/levmichael3/rightscale-cook
+[submodule "Chef-Public"]
+	path = Chef-Public
+	url = https://github.com/lmarty/Chef-Public
+[submodule "drupal8-dlamp-vagrant"]
+	path = drupal8-dlamp-vagrant
+	url = https://github.com/lostkangaroo/drupal8-dlamp-vagrant
+[submodule "mychefrepo"]
+	path = mychefrepo
+	url = https://github.com/lsstvrs/mychefrepo
+[submodule "hostedchefrepo"]
+	path = hostedchefrepo
+	url = https://github.com/manikdham/hostedchefrepo
+[submodule "chef-recipes"]
+	path = chef-recipes
+	url = https://github.com/mconf/chef-recipes
+[submodule "demo-intro"]
+	path = demo-intro
+	url = https://github.com/mfdii/demo-intro
+[submodule "chef-redis"]
+	path = chef-redis
+	url = https://github.com/miah/chef-redis
+[submodule "Chef-test"]
+	path = Chef-test
+	url = https://github.com/michurinandrey/Chef-test
+[submodule "property_file_cookbook"]
+	path = property_file_cookbook
+	url = https://github.com/mikesplain/property_file_cookbook
+[submodule "vagrant_chef_test_env"]
+	path = vagrant_chef_test_env
+	url = https://github.com/mkoryakin/vagrant_chef_test_env
+[submodule "chef-repo-1st-edition"]
+	path = chef-repo-1st-edition
+	url = https://github.com/mmarschall/chef-repo-1st-edition
+[submodule "wordpress-quick-start"]
+	path = wordpress-quick-start
+	url = https://github.com/nathenharvey/wordpress-quick-start
+[submodule "apqc_php"]
+	path = apqc_php
+	url = https://github.com/neclimdul/apqc_php
+[submodule "chef-redis28"]
+	path = chef-redis28
+	url = https://github.com/opapy/chef-redis28
+[submodule "chef-ec2-consistent-snapshot"]
+	path = chef-ec2-consistent-snapshot
+	url = https://github.com/outright/chef-ec2-consistent-snapshot
+[submodule "limits"]
+	path = limits
+	url = https://github.com/outright/limits
+[submodule "jenkins-org"]
+	path = jenkins-org
+	url = https://github.com/paulmooring/jenkins-org
+[submodule "chef_cookbook"]
+	path = chef_cookbook
+	url = https://github.com/pioneerit/chef_cookbook
+[submodule "chef-httrack"]
+	path = chef-httrack
+	url = https://github.com/pressable/chef-httrack
+[submodule "cookbook-generic_dns"]
+	path = cookbook-generic_dns
+	url = https://github.com/promisedlandt/cookbook-generic_dns
+[submodule "php54-chef-env"]
+	path = php54-chef-env
+	url = https://github.com/provantagetech/php54-chef-env
+[submodule "vagrant-aws"]
+	path = vagrant-aws
+	url = https://github.com/prsolans/vagrant-aws
+[submodule "psf-chef"]
+	path = psf-chef
+	url = https://github.com/python/psf-chef
+[submodule "network_interfaces"]
+	path = network_interfaces
+	url = https://github.com/redguide/network_interfaces
+[submodule "vagrant-chef-drupal8"]
+	path = vagrant-chef-drupal8
+	url = https://github.com/retrodans/vagrant-chef-drupal8
+[submodule "keygen"]
+	path = keygen
+	url = https://github.com/rgpalli/keygen
+[submodule "eggcelerator"]
+	path = eggcelerator
+	url = https://github.com/rick446/eggcelerator
+[submodule "forklift_worker"]
+	path = forklift_worker
+	url = https://github.com/rightscale-blueprints/forklift_worker
+[submodule "linux_server"]
+	path = linux_server
+	url = https://github.com/rightscale-blueprints/linux_server
+[submodule "machine_image_transformer"]
+	path = machine_image_transformer
+	url = https://github.com/rightscale-blueprints/machine_image_transformer
+[submodule "minidlna_server"]
+	path = minidlna_server
+	url = https://github.com/rightscale-blueprints/minidlna_server
+[submodule "openvpn"]
+	path = openvpn
+	url = https://github.com/rightscale-blueprints/openvpn
+[submodule "pecl_demo"]
+	path = pecl_demo
+	url = https://github.com/rightscale-blueprints/pecl_demo
+[submodule "php_app_server"]
+	path = php_app_server
+	url = https://github.com/rightscale-blueprints/php_app_server
+[submodule "plex_media_server"]
+	path = plex_media_server
+	url = https://github.com/rightscale-blueprints/plex_media_server
+[submodule "rails_app_server"]
+	path = rails_app_server
+	url = https://github.com/rightscale-blueprints/rails_app_server
+[submodule "Chef-nikhil"]
+	path = Chef-nikhil
+	url = https://github.com/robertjebakumar/Chef-nikhil
+[submodule "appvance-cookbook"]
+	path = appvance-cookbook
+	url = https://github.com/sachanta/appvance-cookbook
+[submodule "All-My-Work"]
+	path = All-My-Work
+	url = https://github.com/saikrishna4293/All-My-Work
+[submodule "Chef-Docs"]
+	path = Chef-Docs
+	url = https://github.com/saikrishna4293/Chef-Docs
+[submodule "from-scratch"]
+	path = from-scratch
+	url = https://github.com/sandrew/from-scratch
+[submodule "example_application"]
+	path = example_application
+	url = https://github.com/sean-horn/example_application
+[submodule "chef_sabackup"]
+	path = chef_sabackup
+	url = https://github.com/shopping-adventure/chef_sabackup
+[submodule "twilio-app"]
+	path = twilio-app
+	url = https://github.com/startupdevs/twilio-app
+[submodule "dbapp"]
+	path = dbapp
+	url = https://github.com/stathy/dbapp
+[submodule "stowaway"]
+	path = stowaway
+	url = https://github.com/stowawayco/stowaway
+[submodule "opscode-6-modules-practise-in-a-windows"]
+	path = opscode-6-modules-practise-in-a-windows
+	url = https://github.com/sudheer464/opscode-6-modules-practise-in-a-windows
+[submodule "chefSurge"]
+	path = chefSurge
+	url = https://github.com/tangerinedream/chefSurge
+[submodule "apache-web"]
+	path = apache-web
+	url = https://github.com/tonan/apache-web
+[submodule "slow-repo"]
+	path = slow-repo
+	url = https://github.com/tpodom/slow-repo
+[submodule "tfs-chef"]
+	path = tfs-chef
+	url = https://github.com/twitter-for-squirrels/tfs-chef
+[submodule "vagrant-test-project"]
+	path = vagrant-test-project
+	url = https://github.com/uran1980/vagrant-test-project
+[submodule "gentoo-cookbooks"]
+	path = gentoo-cookbooks
+	url = https://github.com/veszig/gentoo-cookbooks
+[submodule "syslog-ng-papertrail"]
+	path = syslog-ng-papertrail
+	url = https://github.com/vohof/syslog-ng-papertrail
+[submodule "vchef"]
+	path = vchef
+	url = https://github.com/vovans82/vchef
+[submodule "cloud-repo"]
+	path = cloud-repo
+	url = https://github.com/xsatishx/cloud-repo
+[submodule "chef-cookbook-web_and_rails"]
+	path = chef-cookbook-web_and_rails
+	url = https://github.com/yasuoza/chef-cookbook-web_and_rails
+[submodule "breizhcamp-chef-repo"]
+	path = breizhcamp-chef-repo
+	url = https://github.com/ydubreuil/breizhcamp-chef-repo
+[submodule "flagrant"]
+	path = flagrant
+	url = https://github.com/zenweasel/flagrant
+[submodule "chef-rj"]
+	path = chef-rj
+	url = https://github.com/zxcq/chef-rj

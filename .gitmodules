@@ -2683,3 +2683,51 @@
 [submodule "chef-rj"]
 	path = chef-rj
 	url = https://github.com/zxcq/chef-rj
+[submodule "reprepro"]
+	path = reprepro
+	url = https://github.com/tas50/reprepro
+[submodule "reagan"]
+	path = reagan
+	url = https://github.com/tas50/reagan
+[submodule "chef-sensors"]
+	path = chef-sensors
+	url = https://github.com/tas50/chef-sensors
+[submodule "chef-npm_lazy"]
+	path = chef-npm_lazy
+	url = https://github.com/tas50/chef-npm_lazy
+[submodule "singel"]
+	path = singel
+	url = https://github.com/tas50/singel
+[submodule "chef-kismet"]
+	path = chef-kismet
+	url = https://github.com/tas50/chef-kismet
+[submodule "chef-tools"]
+	path = chef-tools
+	url = https://github.com/tas50/chef-tools
+[submodule "chef-ohai-mdadm"]
+	path = chef-ohai-mdadm
+	url = https://github.com/tas50/chef-ohai-mdadm
+[submodule "Comrad"]
+	path = Comrad
+	url = https://github.com/tas50/Comrad
+[submodule "letsgetbetter"]
+	path = letsgetbetter
+	url = https://github.com/tas50/letsgetbetter
+[submodule "ocd_check"]
+	path = ocd_check
+	url = https://github.com/tas50/ocd_check
+[submodule "vagrant_chef_server"]
+	path = vagrant_chef_server
+	url = https://github.com/tas50/vagrant_chef_server
+[submodule "chef-pulledpork"]
+	path = chef-pulledpork
+	url = https://github.com/tas50/chef-pulledpork
+[submodule "ewscanner"]
+	path = ewscanner
+	url = https://github.com/tas50/ewscanner
+[submodule "home-chef-repo"]
+	path = home-chef-repo
+	url = https://github.com/tas50/home-chef-repo
+[submodule "ohai_plugins"]
+	path = ohai_plugins
+	url = https://github.com/tas50/ohai_plugins

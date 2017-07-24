@@ -2395,3 +2395,6 @@
 [submodule "ssl_certificate-cookbook"]
 	path = ssl_certificate-cookbook
 	url = https://github.com/zuazo/ssl_certificate-cookbook.git
+[submodule "chef-acme"]
+	path = chef-acme
+	url = https://github.com/schubergphilis/chef-acme.git

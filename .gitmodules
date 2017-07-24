@@ -2392,3 +2392,6 @@
 [submodule "ohai_plugins"]
 	path = ohai_plugins
 	url = https://github.com/tas50/ohai_plugins
+[submodule "ssl_certificate-cookbook"]
+	path = ssl_certificate-cookbook
+	url = https://github.com/zuazo/ssl_certificate-cookbook.git

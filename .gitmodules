@@ -406,9 +406,6 @@
 [submodule "chef-dk-chef"]
 	path = chef-dk-chef
 	url = https://github.com/RoboticCheese/chef-dk-chef
-[submodule "apache2"]
-	path = apache2
-	url = https://github.com/sous-chefs/apache2.git
 [submodule "apache2-windows"]
 	path = apache2-windows
 	url = https://github.com/chef-azure/apache2-windows

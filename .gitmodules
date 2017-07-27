@@ -2392,3 +2392,9 @@
 [submodule "chef-acme"]
 	path = chef-acme
 	url = https://github.com/schubergphilis/chef-acme.git
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/sous-chefs/apache2.git
+[submodule "apache-web"]
+	path = apache-web
+	url = https://github.com/tonan/apache-web

@@ -2338,9 +2338,6 @@
 [submodule "chef_sabackup"]
 	path = chef_sabackup
 	url = https://github.com/shopping-adventure/chef_sabackup
-[submodule "apache-web"]
-	path = apache-web
-	url = https://github.com/tonan/apache-web
 [submodule "gentoo-cookbooks"]
 	path = gentoo-cookbooks
 	url = https://github.com/veszig/gentoo-cookbooks

@@ -2317,9 +2317,6 @@
 [submodule "limits"]
 	path = limits
 	url = https://github.com/outright/limits
-[submodule "chef_cookbook"]
-	path = chef_cookbook
-	url = https://github.com/pioneerit/chef_cookbook
 [submodule "chef-httrack"]
 	path = chef-httrack
 	url = https://github.com/pressable/chef-httrack

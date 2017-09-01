@@ -2392,9 +2392,6 @@
 [submodule "apache2"]
 	path = apache2
 	url = https://github.com/sous-chefs/apache2.git
-[submodule "apache-web"]
-	path = apache-web
-	url = https://github.com/tonan/apache-web
 [submodule "wsus-server"]
 	path = wsus-server
 	url = https://github.com/criteo-cookbooks/wsus-server.git

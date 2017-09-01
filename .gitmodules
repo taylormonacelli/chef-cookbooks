@@ -2389,9 +2389,6 @@
 [submodule "chef-acme"]
 	path = chef-acme
 	url = https://github.com/schubergphilis/chef-acme.git
-[submodule "apache2"]
-	path = apache2
-	url = https://github.com/sous-chefs/apache2.git
 [submodule "wsus-server"]
 	path = wsus-server
 	url = https://github.com/criteo-cookbooks/wsus-server.git

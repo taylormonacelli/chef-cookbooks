@@ -658,9 +658,6 @@
 [submodule "consul_alerts-cookbook"]
 	path = consul_alerts-cookbook
 	url = https://github.com/dpetzel/consul_alerts-cookbook
-[submodule "consul-haproxy-cookbook"]
-	path = consul-haproxy-cookbook
-	url = https://github.com/aweber/consul-haproxy-cookbook
 [submodule "chef-consul-template"]
 	path = chef-consul-template
 	url = https://github.com/adamkrone/chef-consul-template

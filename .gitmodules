@@ -2389,3 +2389,6 @@
 [submodule "wsus-server"]
 	path = wsus-server
 	url = https://github.com/criteo-cookbooks/wsus-server.git
+[submodule "chef-selenium"]
+	path = chef-selenium
+	url = https://github.com/dhoer/chef-selenium.git

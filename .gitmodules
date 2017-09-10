@@ -2389,3 +2389,6 @@
 [submodule "chef-selenium"]
 	path = chef-selenium
 	url = https://github.com/dhoer/chef-selenium.git
+[submodule "chef"]
+	path = chef
+	url = https://github.com/chef/chef.git

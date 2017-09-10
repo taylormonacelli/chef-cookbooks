@@ -397,9 +397,6 @@
 [submodule "chef-sbt"]
 	path = chef-sbt
 	url = https://github.com/farmdawgnation/chef-sbt
-[submodule "chef"]
-	path = chef
-	url = http://github.com/opscode-cookbooks/chef
 [submodule "chef-cfn"]
 	path = chef-cfn
 	url = https://github.com/JonathanSerafini/chef-cfn

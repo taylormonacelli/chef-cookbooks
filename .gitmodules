@@ -2395,3 +2395,6 @@
 [submodule "chef-prometheus"]
 	path = chef-prometheus
 	url = https://github.com/elijah/chef-prometheus
+[submodule "prometheus-platform"]
+	path = prometheus-platform
+	url = https://gitlab.com/s4m-chef-repositories/prometheus-platform.git

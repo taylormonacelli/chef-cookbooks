@@ -2392,3 +2392,6 @@
 [submodule "chef"]
 	path = chef
 	url = https://github.com/chef/chef.git
+[submodule "chef-prometheus"]
+	path = chef-prometheus
+	url = https://github.com/elijah/chef-prometheus

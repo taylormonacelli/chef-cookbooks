@@ -505,9 +505,6 @@
 [submodule "chef-bginfo"]
 	path = chef-bginfo
 	url = https://github.com/X0nic/chef-bginfo
-[submodule "boost"]
-	path = boost
-	url = http://github.com/opscode-cookbooks/boost
 [submodule "boost-source-cookbook"]
 	path = boost-source-cookbook
 	url = https://github.com/saadware/boost-source-cookbook

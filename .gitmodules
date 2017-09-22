@@ -256,9 +256,6 @@
 [submodule "chef_handler_elasticsearch"]
 	path = chef_handler_elasticsearch
 	url = https://github.com/higanworks-cookbooks/chef_handler_elasticsearch
-[submodule "chef_handler"]
-	path = chef_handler
-	url = http://github.com/opscode-cookbooks/chef_handler
 [submodule "yum-cron"]
 	path = yum-cron
 	url = https://github.com/osuosl-cookbooks/yum-cron

@@ -904,9 +904,6 @@
 [submodule "nxlog"]
 	path = nxlog
 	url = http://github.com/widgit-cookbooks/nxlog/
-[submodule "ant"]
-	path = ant
-	url = http://github.com/opscode-cookbooks/ant
 [submodule "1password-cookbook"]
 	path = 1password-cookbook
 	url = https://github.com/jtimberman/1password-cookbook

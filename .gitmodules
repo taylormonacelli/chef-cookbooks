@@ -2383,3 +2383,6 @@
 [submodule "prometheus-platform"]
 	path = prometheus-platform
 	url = https://gitlab.com/chef-platform/prometheus-platform.git
+[submodule "mariadb"]
+	path = mariadb
+	url = https://github.com/sinfomicien/mariadb.git

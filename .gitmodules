@@ -2236,9 +2236,6 @@
 [submodule "mc-logadm"]
 	path = mc-logadm
 	url = https://github.com/cookbooks/mc-logadm
-[submodule "nd-chef-supervisord"]
-	path = nd-chef-supervisord
-	url = https://github.com/cookbooks/nd-chef-supervisord
 [submodule "oc-cron"]
 	path = oc-cron
 	url = https://github.com/cookbooks/oc-cron

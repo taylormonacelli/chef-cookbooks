@@ -2377,3 +2377,6 @@
 [submodule "mariadb"]
 	path = mariadb
 	url = https://github.com/sinfomicien/mariadb.git
+[submodule "omnibus-toolchain"]
+	path = omnibus-toolchain
+	url = https://github.com/chef/omnibus-toolchain

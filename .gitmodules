@@ -2224,9 +2224,6 @@
 [submodule "chef-cacti"]
 	path = chef-cacti
 	url = https://github.com/bflad/chef-cacti
-[submodule "old_chef"]
-	path = old_chef
-	url = https://github.com/boris/old_chef
 [submodule "apache"]
 	path = apache
 	url = https://github.com/burtlo/apache

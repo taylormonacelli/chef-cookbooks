@@ -2380,3 +2380,6 @@
 [submodule "omnibus-toolchain"]
 	path = omnibus-toolchain
 	url = https://github.com/chef/omnibus-toolchain
+[submodule "newrelic"]
+	path = newrelic
+	url = https://github.com/djoos-cookbooks/newrelic.git

@@ -2383,3 +2383,6 @@
 [submodule "newrelic"]
 	path = newrelic
 	url = https://github.com/djoos-cookbooks/newrelic.git
+[submodule "cloudcli-cookbook"]
+	path = cloudcli-cookbook
+	url = https://github.com/cmlicata/cloudcli-cookbook.git
